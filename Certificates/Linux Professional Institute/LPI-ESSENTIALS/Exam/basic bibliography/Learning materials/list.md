@@ -1,0 +1,805 @@
+Topic 1: The Linux Community and a Career in Open Source
+- [ ] Page 1
+	- [ ] 1.1 Linux Evolution and Popular Operating Systems
+		- [ ] Index
+			- [ ] Page 2
+		- [ ] Summary
+			- [ ] Page 10
+				- [x] what is linux
+					- [ ] Page 2
+					- [ ] Page 3
+				- [x] Distros
+					- [ ] Page 4
+					- [ ] Page 5
+				- [x] Android and Embedded Systems
+					- [ ]  Page 5
+					- [ ] Page 6
+				- [x] Cloud
+					- [ ] Page 7
+		- [ ] Exercises
+			- [ ] Page 8
+			- [ ] Page 9
+			- [ ] Page 10
+			- [ ] Page 11
+			- [ ] Page 12
+			- [ ] Page 13
+	- [ ] 1.2 Major Open Source Applications
+		- [ ] Index
+			- [ ] Page 14
+		- [ ] Summary
+			- [ ] Page 32
+				- [x] packages (programs) and package management
+					- [ ] Page 15
+					- [ ] Page 16
+					- [ ] Page 17
+					- [ ] Page 18
+					- [ ] Page 19
+					- [ ] Page 20
+				- [x] Office programs
+					- [ ] Page 21
+				- [x] web browsers programs
+					- [ ] Page 22
+				- [x] multimedia programs
+					- [ ] Page 22 ~ 23
+				- [x] Server Programs
+					- [ ] Page 23
+					- [ ] Page 24
+				- [x] Data Sharing
+					- [ ] Page 24
+					- [ ] Page 25
+				- [x] Network Administration
+					- [ ] Page 25
+					- [ ] Page 26
+				- [x] Programming Languages
+					- [ ] Page 26
+					- [ ] Page 27
+					- [ ] Page 28
+		- [ ] Exercises
+			- [ ] Page 29
+			- [ ] Page 30
+			- [ ] Page 31
+			- [ ] Page 32
+			- [ ] Page 33
+			- [ ] Page 34
+			- [ ] Page 35
+	- [ ] 1.3 Open Source Software and Licensing
+		- [ ] Index
+			- [ ] Page 36
+		- [x] Summary
+			- [ ] 48
+				- [x] what is Open Source?
+					- [ ] Page 37
+					- [ ] Page 38
+				- [x] Open Source Software vs. Free Software
+					- [ ] Page 39
+				- [x] Licenses
+					- [ ] Page 40
+					- [ ] Page 41
+					- [ ] Page 42
+					- [ ] Page 43
+					- [ ]  Page 44
+				- [x] Business Models in Open Source
+					- [ ] Page 44
+					- [ ] Page 45
+		- [ ] Exercises
+			- [ ] Page 46
+			- [ ] Page 47
+			- [ ] Page 48
+			- [ ] Page 49
+			- [ ] Page 50
+			- [ ] Page 51
+	- [ ] 1.4 ICT Skills and Working in Linux
+		- [ ] Index
+			- [ ] Page 52
+		- [ ] Summary
+			- [ ] Page 66
+				- [x] Linux UI, Desktop Environments
+					- [ ] Page 53
+					- [ ] Page 54
+				- [x] Command Line basics
+					- [ ] Page 54
+				- [x] FOSS software for presentation and LaTeX code
+					- [ ] Page 55
+				- [x] Industry uses
+					- [ ] Page 56
+					- [ ] Page 57
+				- [x] Privacy on the internet
+					- [ ] introduction - Page 57
+						- [ ] Cookie Tracking
+							- [ ] Page 57
+							- [ ] Page 58
+						- [ ] Do Not Track (DNT)
+							- [ ] Page 58
+						- [ ] what incognito doesn't and what it does
+							- [ ] Page 58
+							- [ ] Page 59
+						- [ ] Creating good password
+							- [ ] Page 59
+							- [ ] Page 60
+						- [ ] Encryption basics
+							- [ ] Page 60
+							- [ ] Page 61
+							- [ ] Page 62
+		- [ ]  Exercises
+			- [ ] Page 63
+			- [ ] Page 64
+			- [ ] Page 65
+			- [ ] Page 66
+			- [ ] Page 67
+			- [ ] Page 68
+			- [ ] Page 69
+
+Topic 2: Finding Your Way on a Linux System
+- [ ] Page 70
+	- [ ] 2.1 Command Line Basics
+		- [ ] Index
+			- [ ] Page 71
+		- [ ]  Summary
+			- [ ] Page 82
+				- [x] Command line (shell)
+					- [ ] Page 72
+					- [ ] Page 73
+				- [x] Structure of a Command Line Query
+					- [ ] Page 74
+				- [x] [[Internal and External commands]]
+					- [ ] Page 75
+				- [x] Quoting
+					- [ ] Page 75
+					- [ ] Page 76
+					- [ ] Page 77
+				- [x] Escape Characters
+					- [ ] Page 77
+					- [ ] Page 78
+			- [ ] Page 93
+				- [x] Variables
+					- [ ] What are variables (Local and ENVIRONMENT)
+						- [ ] Page 85
+						- [ ] Page 86
+					- [ ] Managing Variables
+						- [ ] Page 86
+						- [ ] Page 87
+						- [ ] Page 88
+				- [x] $PATH
+					- [ ] Page 88
+					- [ ] Page 89
+					- [ ] Page 90
+		- [ ] Exercises
+			- [ ] Page 79
+			- [ ] Page 80
+			- [ ] Page 81
+			- [ ] Page 82
+			- [ ] Page 83
+			- [ ] Page 84
+			Topic subset
+			- [ ] Page 91
+			- [ ] Page 92
+			- [ ] Page 93
+			- [ ] Page 94
+			- [ ] Page 95
+			- [ ] Page 96
+	- [ ] 2.2 Using the Command Line to Get Help
+		- [ ] Index
+			- [ ] 97
+		- [ ] Summary
+			- [ ] 107
+				- [x] Program usage (man, info)
+					- [ ] Page 97
+					- [ ] Page 98
+					- [ ] Page 99
+					- [ ] Page 100
+					- [ ] Page 101
+				- [x] How to search for files on the File System
+					- [ ] Page 101
+					- [ ] Page 102
+					- [ ] Page 103
+		- [ ] Exercises
+			- [ ] Page 104
+			- [ ] Page 105
+			- [ ] Page 106
+			- [ ] Page 107
+			- [ ] Page 108
+			- [ ] Page 109
+			- [ ] Page 110
+			- [ ] Page 111
+			- [ ] Page 112
+	- [ ] 2.3 Using Directories and Listing Files
+		- [ ] Index
+			- [ ] 113
+		- [ ] Summary
+			- [ ] 122
+				- [x] moving inside directories and Absolute path to files
+					- [ ] Page 114
+					- [ ] Page 115
+					- [ ] Page 116
+					- [ ] Page 117
+					- [ ] Page 118
+			- [ ] 138
+				- [x] Linux and the Linux Terminal
+					- [ ] Page 127
+				- [x] Home and $Home
+					- [ ] Page 127
+					- [ ] Page 128
+					- [ ] Page 129
+					- [ ] Page 130
+					- [ ] Page 131
+				- [x] Hidden files and Directories
+					- [ ] Page 131
+					- [ ] Page 132
+				- [x] How to use ls Long List option (-l)
+					- [ ] Page 132
+					- [ ] Page 133
+				- [x] Bash and Recursion
+					- [ ] Page 133
+					- [ ] Page 134
+		- [ ] Exercises
+			- [ ] pwd, absolute and relative path
+				- [ ] Page 119
+				- [ ] Page 120
+				- [ ] Page 121
+				- [ ] Page 122
+				- [ ] Page 123
+				- [ ] Page 124
+				- [ ] Page 125
+				- [ ] Page 126
+			- [ ] (du command) folder structure and hidden files
+				- [ ] Page 135
+				- [ ] Page 136
+				- [ ] Page 137
+				- [ ] Page 138
+				- [ ] Page 139
+				- [ ] Page 140
+				- [ ] Page 141
+	- [ ] 2.4 Creating, Moving and Deleting Files
+		- [ ] Index
+			- [ ] Page 142
+		- [ ] Summary
+			- [ ] 161 ~ 162
+				- [x] File and Directory definition
+					- [ ] Page 143
+				- [x] Case Sensivity
+					- [ ] Page 144
+				- [x] Creating Directories
+					- [ ] Page 144
+					- [ ] Page 145
+					- [ ] Page 146
+				- [x] Creating Files
+					- [ ] Page 146
+					- [ ] Page 147
+				- [x] Renaming Files
+					- [ ] Page 147
+					- [ ] Page 148
+				- [x] Moving Files
+					- [ ] Page 148
+					- [ ] Page 149
+				- [x] Deleting Files and Directories
+					- [ ] Page 149
+					- [ ] Page 150
+					- [ ] Page 151
+				- [x] Copying Files and Directories
+					- [ ] Page 151
+					- [ ] Page 152
+					- [ ] Page 153
+				- [x] Globbing ***
+					- [ ] Page 153
+					- [ ] Page 154
+					- [ ] Page 155
+					- [ ] Page 156
+					- [ ] Page 157
+		- [ ] Exercises
+			- [ ] 158 ~ 167
+			- [ ] Page 158
+			- [ ] Page 159
+			- [ ] Page 160
+			- [ ] Page 161
+			- [ ] Page 162
+			- [ ] Page 163
+			- [ ] Page 164
+			- [ ] Page 165
+			- [ ] Page 166
+			- [ ] Page 167
+
+Topic 3: The Power of the Command Line
+- [ ] Page 168
+	- [ ] 3.1 Archiving Files on the Command Line
+		- [ ] Index
+			- [ ] 169
+		- [ ] Summary
+			- [ ] 181 ~ 182
+				- [x] Difference between Compression and Archiving tools
+					- [ ] Page 170
+					- [ ] Page 171
+				- [x] Compression Tools
+					- [ ] Page 171
+					- [ ] Page 172
+					- [ ] Page 173
+				- [x] Archiving Tools
+					- [ ] Page 174
+					- [ ] Page 175
+					- [ ] Page 176
+					- [ ] Page 177
+				- [x] Managing Zip Files
+					- [ ] Page 177
+					- [ ] Page 178
+		- [ ] Exercises
+			- [ ] Page 179
+			- [ ] Page 180
+			- [ ] Page 181
+			- [ ] Page 182
+			- [ ] Page 183
+			- [ ] Page 184
+			- [ ] Page 185
+	- [ ] 3.2 Searching and Extracting Data from Files
+		- [ ] Index
+			- [ ] Page 186
+		- [ ] Summary
+			- [ ] Page 196
+				- [x] Input/Output of programs and Redirection
+					- [ ] Definition of stdin and stdout
+						- [ ] Page 187
+						- [ ] I/O Redirection
+							- [ ] Page 187
+								- [ ] Redirecting Standard Output
+									- [ ] Page 188
+								- [ ] Redirecting Standard Error
+									- [ ] Page 189
+									- [ ] Page 190
+								- [ ] Redirecting Standard Input
+									- [ ] Page 190
+								- [ ] Here Documente (<<)
+									- [ ] Page 190
+									- [ ] Page 191
+						- [ ] Combinations for I/O Redirection
+							- [ ] Page 191
+							- [ ] Page 192
+					- [ ] Pipe automatic Output/Input Redirection
+						- [ ] Page 192
+						- [ ] Page 193
+			- [ ] Page 207
+				- [x] Searching within Files with grep
+					- [ ] Page 200
+					- [ ] Page 201
+				- [x] Regular expressions (meta-characters usage)
+					- [ ] Page 201
+					- [ ] Page 202
+					- [ ] Page 203
+					- [ ] Page 204
+		- [ ] Exercises
+			- [ ] 194 ~ 199
+				- [ ] Page 194
+				- [ ] Page 195
+				- [ ] Page 196
+				- [ ] Page 197
+				- [ ] Page 198
+				- [ ] Page 199
+			- [ ] 205 ~ 211
+				- [ ] Page 205
+				- [ ] Page 206
+				- [ ] Page 207
+				- [ ] Page 208
+				- [ ] Page 209
+				- [ ] Page 210
+				- [ ] Page 211
+	- [ ] 3.3 Turning Commands into a Script
+		- [ ] Index
+			- [ ] 212
+		- [ ] Summary
+			- [ ] Page 227 ~ 228
+				- [x] Printing Output
+					- [ ] Page 213
+					- [ ] Page 214
+				- [x] Execute permissions and path for execution
+					- [ ] Page 214
+					- [ ] Page 215
+					- [ ] Page 216
+				- [x] Common CLI Text Editors
+					- [ ] Page 216
+					- [ ] Page 217
+				- [x] What are **variables** and how to use them(+$PATH)
+					- [ ] Page 217
+					- [ ] Page 218
+					- [ ] Page 219
+					- [ ] Page 220
+					- [ ] Page 221
+				- [x] Arguments and Scripts
+					- [ ] Page 220
+					- [ ] Page 221
+					- [ ] Page 222
+				- [x] Conditional Logic (Conditions)
+					- [ ] Page 222
+					- [ ] Page 223
+			- [ ] Page 245
+				- [x] What defines a Script
+					- [ ] Page 233
+					- [ ] Page 234
+				- [x] Exit Codes
+					- [ ] Page 234
+					- [ ] Page 235
+					- [ ] Page 236
+				- [x] Handling Many Arguments
+					- [ ] Page 236
+					- [ ] Page 237
+				- [x] For Loops
+					- [ ] Page 237
+					- [ ] Page 238
+					- [ ] Page 239
+				- [x] Error Checking using Regular Expressions
+					- [ ] Page 239
+					- [ ] Page 240
+					- [ ] Page 241
+		- [ ] Exercises
+			- [ ] 224 ~ 232
+				- [ ] Page 224
+				- [ ] Page 225
+				- [ ] Page 226
+				- [ ] Page 227
+				- [ ] Page 228
+				- [ ] Page 229
+				- [ ] Page 230
+				- [ ] Page 231
+				- [ ] Page 232
+			- [ ] 242 ~ 248
+				- [ ] Page 242
+				- [ ] Page 243
+				- [ ] Page 244
+				- [ ] Page 245
+				- [ ] Page 246
+				- [ ] Page 247
+				- [ ] Page 248
+
+Topic 4: The Linux Operating System
+- [ ] Page 249
+	- [ ] 4.1 Choosing an Operating System
+		- [ ] Index
+			- [ ] 250
+		- [ ] Summary
+			- [ ] 261
+				- [x] Widely used systems and how to choose from
+					- [x] What Is as Operating System
+						- [ ] Page 251
+						- [ ] Page 252
+					- [x] What is Linux
+						- [ ] Page 252
+					- [x] Types of Linux Distributions
+						- [ ] Page 253
+						- [ ] Page 254
+						- [ ] Page 255
+					- [x] Usages of Linux Distros
+						- [ ] Support Lifecycle
+							- [ ] Page 255
+						- [ ] Linux Desktop
+							- [ ] Page 255
+						- [ ] Linux on Servers
+							- [ ] Page 256
+						- [ ] Linux and Cloud
+							- [ ] Page 256
+					- [x] Non Linux Operating Systems
+						- [ ] Unix
+							- [ ] Page 256
+							- [ ] Page 257
+						- [ ] MacOS
+							- [ ] Page 257
+						- [ ] Windows
+							- [ ] Page 257
+		- [ ] Exercises
+			- [ ] 258 ~ 264
+				- [ ] Page 258
+				- [ ] Page 259
+				- [ ] Page 260
+				- [ ] Page 261
+				- [ ] Page 262
+				- [ ] Page 263
+				- [ ] Page 264
+	- [ ] 4.2 Understanding Computer Hardware
+		- [ ] Index
+			- [ ] 265
+		- [ ] Summary
+			- [ ] 278
+				- [x] Computer hardware
+					- [ ] Page 266
+					- [ ] Page 267
+					- [ ] Page 268
+					- [ ] Page 269
+					- [ ] Page 270
+					- [ ] Page 271
+					- [ ] Page 272
+				- [x] Partitions
+					- [ ] Page 273
+					- [ ] Page 274
+				- [x] Peripherals
+					- [ ] Page 273
+					- [ ] Page 274
+				- [x] Drivers and Device Files
+					- [ ] Page 274
+					- [ ] Page 275
+		- [ ] Exercises
+			- [ ] 276 ~ 281
+				- [ ] Page 276
+				- [ ] Page 277
+				- [ ] Page 278
+				- [ ] Page 279
+				- [ ] Page 280
+				- [ ] Page 281
+	- [ ] 4.3 Where Data is Stored
+		- [ ] Index
+			- [ ] 282
+		- [ ] Summary
+			- [x] 298 ~ 299
+				- [x] Linux and the Filesystem
+					- [x] Page 283
+					- [x] Programs and their configuration files
+						- [ ] Page 283
+						- [ ] Page 284
+						- [ ] Page 285
+						- [ ] Page 286
+						- [ ] Page 287
+					- [x] Kernel and kernel modules
+						- [ ] Page 287
+						- [ ] Page 288
+						- [ ] Page 289
+					- [x] /proc, info about hardware, running processes and the kernel
+						- [ ] Page 289
+					- [x] Hardware devices and Memory
+						- [ ] Page 290
+						- [ ] Page 291
+						- [ ] Page 292
+						- [ ] Page 293
+						- [ ] Page 294
+			- [ ] 318 ~ 319
+				- [x] Managing Processes and Logs
+					- [x] view and manage processes
+						- [ ] Page 303
+						- [ ] Page 304
+						- [ ] Page 305
+						- [ ] Page 306
+						- [ ] Page 307
+					- [x] System Load
+						- [ ] Page 307
+					- [x] Seeing logs and rotating it
+						- [ ] Page 308
+						- [ ] Page 309
+						- [ ] Page 310
+						- [ ] Page 311
+						- [ ] Page 312
+		- [ ] Exercises
+			- [ ] 295 ~ 302
+				- [ ] Page 295
+				- [ ] Page 296
+				- [ ] Page 297
+				- [ ] Page 298
+				- [ ] Page 299
+				- [ ] Page 300
+				- [ ] Page 301
+				- [ ] Page 302
+			- [ ] 313 ~ 324
+				- [ ] Page 313
+				- [ ] Page 314
+				- [ ] Page 315
+				- [ ] Page 316
+				- [ ] Page 317
+				- [ ] Page 318
+				- [ ] Page 319
+				- [ ] Page 320
+				- [ ] Page 321
+				- [ ] Page 322
+				- [ ] Page 323
+				- [ ] Page 324
+	- [ ] 4.4 Your Computer on the Network
+		- [ ] Index
+			- [ ] 325
+		- [ ] Summary
+			- [ ] 342
+				- [x] Connecting devices
+					- [ ] Basic explanation of Layers on Network Connections
+						- [ ] Page 326
+						- [ ] Page 327
+					- [ ] Link Layer Networking
+						- [ ] Page 327
+						- [ ] Page 328
+					- [ ] IPv4
+						- [ ] What is used for
+							- [ ] Page 328
+						- [ ] Addressing
+							- [ ] Page 328
+							- [ ] Page 329
+						- [ ] Subnets
+							- [ ] Page 329
+						- [ ] Private Addreses
+							- [ ] Page 330
+						- [ ] Address Configuration
+							- [ ] Page 330
+							- [ ] Page 331
+						- [ ] Routing
+							- [ ] Page 332
+					- [ ] IPv6
+						- [ ] IPv6 Networking
+							- [ ] Page 333
+								- [ ] IPv6 Addresses
+						- [ ] IPv6 Prefix
+							- [ ] Page 333 ~ 334
+								- [ ] Global Unique Address
+								- [ ] Unique Local Address
+								- [ ] Link Local Address
+						- [ ] Interface Identifier
+							- [ ] Page 334
+						- [ ] Address Configuration
+							- [ ] Page 334
+							- [ ] Page 335
+							- [ ] Page 336
+					- [ ] DNS (Domain Name System)
+						- [ ] Page 336
+						- [ ] Page 337
+						- [ ] Page 338
+						- [ ] Page 339
+					- [ ] Sockets
+						- [ ] Page 338
+						- [ ] Page 339
+		- [ ] Exercises
+			- [ ] 340 ~ 345
+				- [ ] Page 340
+				- [ ] Page 341
+				- [ ] Page 342
+				- [ ] Page 343
+				- [ ] Page 344
+				- [ ] Page 345
+
+Topic 5: Security and File Permissions
+- [ ] Page 346
+	- [ ] 5.1 Basic Security and Identifying User Types
+		- [ ] Index
+			- [ ] Page 347
+		- [ ] Summary
+			- [ ] 365 ~ 366
+				- [x] Access Control
+					- [ ] Page 348
+						- [x] Accounts basics
+							- [ ] Getting Information About Your Users
+								- [ ] Page 352
+								- [ ] Page 353
+							- [ ] Identifiers (UIDs/GIDs)
+								- [ ] Page 349
+							- [ ] The Superuser Account
+								- [ ] Page 349
+							- [ ] Standard User Accounts
+								- [ ] Page 349
+								- [ ] Page 350
+							- [ ] System Accounts
+								- [ ] Page 350
+							- [ ] Service Accounts
+								- [ ] Page 350
+								- [ ] Page 351
+							- [ ] Login Shells and Home Directories
+								- [ ] Page 351
+								- [ ] Page 352
+						- [x] Switching users and Escalating Privileges
+							- [ ] Page 354
+							- [ ] Page 355
+						- [x] Access Control Files
+							- [ ] Page 355
+							- [ ] Page 356
+							- [ ] Page 357
+							- [ ] Page 358
+							- [ ] Page 359
+							- [ ] Page 360
+							- [ ] Page 361
+		- [ ] Exercises
+			- [ ] 362 ~ 370
+				- [ ] Page 362
+				- [ ] Page 363
+				- [ ] Page 364
+				- [ ] Page 365
+				- [ ] Page 366
+				- [ ] Page 367
+				- [ ] Page 368
+				- [ ] Page 369
+				- [ ] Page 370
+	- [ ] 5.2 Creating Users and Groups
+		- [ ] Index
+			- [ ] 371
+		- [ ] Summary
+			- [ ] 384
+				- [x] How users and group works
+					- [ ] Page 372 ~ Page 373
+						- [ ] /etc/passwd
+							- [ ] Page 373
+						- [ ] /etc/shadow
+							- [ ] Page 374
+							- [ ] Page 375
+						- [ ] /etc/gshadow
+							- [ ] Page 375
+							- [ ] Page 376
+						- [ ] Managing users (useradd)
+							- [ ] Page 376
+							- [ ] Page 377
+							- [ ] Page 378 ([[id]] command)
+						- [ ] /etc/skel
+							- [ ] Page 378
+						- [ ] group managing (groupadd groupdel)
+							- [ ] Page 379
+						- [ ] passwd
+							- [ ] Page 379
+							- [ ] Page 380
+		- [ ] Exercises
+			- [ ] 381 ~ 389
+				- [ ] Page 381
+				- [ ] Page 382
+				- [ ] Page 383
+				- [ ] Page 384
+				- [ ] Page 385
+				- [ ] Page 386
+				- [ ] Page 387
+				- [ ] Page 388
+				- [ ] Page 389
+	- [ ] 5.3 Managing File Permissions and Ownership
+		- [ ] Index
+			- [ ] 390
+		- [ ] Summary
+			- [ ] 408
+				- [x] how to read information and permissions of files and directories
+					- [ ] Page 391
+					- [ ] Page 392
+					- [ ] Page 393
+					- [ ] Page 394
+					- [ ] Page 395
+				- [x] Managing permissions to users and groups
+					- [ ] Page 395
+					- [ ] Page 396
+					- [ ] Page 397
+					- [ ] Page 398
+					- [ ] Page 399
+					- [ ] Page 400
+					- [ ] Page 401
+				- [x] Special Permissions
+					- [ ] Page 402
+					- [ ] Page 403
+					- [ ] Page 404
+		- [ ] Exercises
+			- [ ] 405 ~ 414
+				- [ ] Page 405
+				- [ ] Page 406
+				- [ ] Page 407
+				- [ ] Page 408
+				- [ ] Page 409
+				- [ ] Page 410
+				- [ ] Page 411
+				- [ ] Page 412
+				- [ ] Page 413
+				- [ ] Page 414
+	- [ ] 5.4 Special Directories and Files
+		- [ ] Index
+			- [ ] 415
+		- [ ] Summary
+			- [ ] 427
+				- [x]  Temporary Files and permissions of them
+					- [ ] Page 416
+					- [ ] Page 417
+					- [ ] Page 418
+				- [x] Understanding Soft and Hard links
+					- [ ] Page 418
+					- [ ] Page 419
+					- [ ] Page 420
+					- [ ] Page 421
+					- [ ] Page 422
+		- [ ] Exercises
+			- [ ] 423 ~ 432
+				- [ ] Page 423
+				- [ ] Page 424
+				- [ ] Page 425
+				- [ ] Page 426
+				- [ ] Page 427
+				- [ ] Page 428
+				- [ ] Page 429
+				- [ ] Page 430
+				- [ ] Page 431
+				- [ ] Page 432
+
+
+
+
+
+
+
+
+
+
+
+

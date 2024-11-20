@@ -1,0 +1,977 @@
+###index from [[LPI-Learning-Material-010-160-en.pdf]]
+- [x]   - [[Free and Open Source Software, the various communities and licenses]]
+	- [x]  [[Free and Open Source Software]]
+		- [ ] what is Open Source?
+			- [ ] Page 37
+			- [ ] Page 38
+		- [ ] [[Open Source Software vs. Free Software]]
+			- [ ] Page 39
+		- [x] [[Business Models in Open Source]]
+			- [ ] Page 44
+			- [ ] Page 45
+	- [x] The Various Communities
+		- [x] [[Industry uses]]
+			- [ ] Page 56
+			- [ ] Page 57
+		- [x] [[Cloud]]
+			- [ ] Page 7
+		- [x] [[Non Linux Operating Systems]]
+			- [ ] Unix
+				- [ ] Page 256
+				- [ ] Page 257
+			- [ ] MacOS
+				- [ ] Page 257
+			- [ ] Windows
+				- [ ] Page 257
+		- [x] [[Usages of Linux Distros]]
+			- [ ] [[Support Lifecycle]]
+				- [ ] Page 255
+			- [ ] [[Linux Desktop]]
+				- [ ] Page 255
+			- [ ] [[Linux on Servers]]
+				- [ ] Page 256
+			- [ ] [[Linux and the Cloud]]
+				- [ ] Page 256
+		- [x] [[Types of Linux Distributions]]
+			- [ ] Page 253
+			- [ ] Page 254
+			- [ ] Page 255
+		- [x] [[Business Models in Open Source]]
+			- [ ] Page 44
+			- [ ] Page 45
+		- [x] [[Distributions|Distros]]
+			- [ ] Page 4
+			- [ ] Page 5
+	- [x] Licenses
+		- [x] [[Licenses]]
+			- [ ] Page 40
+			- [ ] Page 41
+			- [ ] Page 42
+			- [ ] Page 43
+			- [ ]  Page 44
+- [x] [[Processes, programs and the components of an operating system]]
+	- [x] processes
+		- [x] [[Exit Codes]]
+			- [ ] Page 234
+			- [ ] Page 235
+			- [ ] Page 236
+		- [x] [[Error Checking]] using Regular Expressions
+			- [ ] Page 239
+			- [ ] Page 240
+			- [ ] Page 241
+		- [x] [[view and manage processes]]
+			- [ ] Page 303
+			- [ ] Page 304
+			- [ ] Page 305
+			- [ ] Page 306
+			- [ ] Page 307
+		- [x] [[System Load]]
+			- [ ] Page 307
+		- [x] [[Seeing logs and rotating it]]
+			- [ ] Page 308
+			- [ ] Page 309
+			- [ ] Page 310
+			- [ ] Page 311
+			- [ ] Page 312
+		- [x] [[Sockets]]
+			- [ ] Page 338
+			- [ ] Page 339
+	- [x] programs
+		- [x] [[managing packages|packages (programs) and package management]]
+			- [ ] Page 15
+			- [ ] Page 16
+			- [ ] Page 17
+			- [ ] Page 18
+			- [ ] Page 19
+			- [ ] Page 20
+		- [x] [[Structure of a Command Line Query]]
+			- [ ] Page 74
+		- [x] [[Internal and External commands]]
+			- [ ] Page 75
+		- [x] [[Execute permissions]] and path for execution
+			- [ ] Page 214
+			- [ ] Page 215
+			- [ ] Page 216
+		- [x] What are **[[variables]]** and how to use them(+$PATH)
+			- [ ] Page 217
+			- [ ] Page 218
+			- [ ] Page 219
+			- [ ] Page 220
+			- [ ] Page 221
+		- [x] [[Programs and their configuration files]]
+			- [ ] Page 283
+			- [ ] Page 284
+			- [ ] Page 285
+			- [ ] Page 286
+			- [ ] Page 287
+		- [x] [[Kernel and kernel modules]]
+			- [ ] Page 287
+			- [ ] Page 288
+			- [ ] Page 289
+		- [x] /[[The proc Directory]], info about hardware, running processes and the kernel
+			- [ ] Page 289
+		- [x] [[Hardware devices and Memory]]
+			- [ ] Page 290
+			- [ ] Page 291
+			- [ ] Page 292
+			- [ ] Page 293
+			- [ ] Page 294
+	- [x] components of an Operating System
+		- [x] [[what is linux]]
+			- [ ] Page 2
+			- [ ] Page 3
+		- [x] [[Distributions|Distros]]
+			- [ ] Page 4
+			- [ ] Page 5
+		- [x] [[Android and Embedded Systems]]
+			- [ ]  Page 5
+			- [ ] Page 6
+		- [x] [[Cloud]]
+			- [ ] Page 7
+		- [x] [[moving inside directories and Absolute path to files]]
+			- [ ] Page 114
+			- [ ] Page 115
+			- [ ] Page 116
+			- [ ] Page 117
+			- [ ] Page 118
+		- [x] [[Regular expressions]] (meta-characters usage)
+			- [ ] Page 201
+			- [ ] Page 202
+			- [ ] Page 203
+			- [ ] Page 204
+		- [x] [[Execute permissions]] and path for execution
+			- [ ] Page 214
+			- [ ] Page 215
+			- [ ] Page 216
+		- [x] [[Widely used systems and how to choose from]]
+			- [ ] [[What Is as Operating System]]
+				- [ ] Page 251
+				- [ ] Page 252
+			- [ ] [[what is linux]]
+				- [ ] Page 252
+			- [ ] [[Types of Linux Distributions]]
+				- [ ] Page 253
+				- [ ] Page 254
+				- [ ] Page 255
+			- [ ] [[Usages of Linux Distros]]
+				- [ ] [[Support Lifecycle]]
+					- [ ] Page 255
+				- [ ] [[Linux Desktop]]
+					- [ ] Page 255
+				- [ ] [[Linux on Servers]]
+					- [ ] Page 256
+				- [ ] [[Linux and the Cloud]]
+					- [ ] Page 256
+			- [ ] [[Non Linux Operating Systems]]
+				- [ ] Unix
+					- [ ] Page 256
+					- [ ] Page 257
+				- [ ] MacOS
+					- [ ] Page 257
+				- [ ] Windows
+					- [ ] Page 257
+		- [x] Linux UI, [[Desktop Environments]]
+			- [ ] Page 53
+			- [ ] Page 54
+		- [x] [[Programs and their configuration files]]
+			- [ ] Page 283
+			- [ ] Page 284
+			- [ ] Page 285
+			- [ ] Page 286
+			- [ ] Page 287
+		- [x] [[Kernel and kernel modules]]
+			- [ ] Page 287
+			- [ ] Page 288
+			- [ ] Page 289
+		- [x] /[[The proc Directory]], info about hardware, running processes and the kernel
+			- [ ] Page 289
+		- [x] [[Hardware devices and Memory]]
+			- [ ] Page 290
+			- [ ] Page 291
+			- [ ] Page 292
+			- [ ] Page 293
+			- [ ] Page 294
+		- [x] [[Drivers and Device Files]]
+			- [ ] Page 274
+			- [ ] Page 275
+- [x] [[Computer hardware]]
+	- [[Kernel and kernel modules]]
+		- [ ] Page 287
+		- [ ] Page 288
+		- [ ] Page 289
+	- /[[The proc Directory]], info about hardware, running processes and the kernel
+		- [ ] Page 289
+	-  [[Hardware devices and Memory]]
+		- [ ] Page 290
+		- [ ] Page 291
+		- [ ] Page 292
+		- [ ] Page 293
+		- [ ] Page 294
+	-  [[Peripherals]]
+		- [ ] Page 373
+		- [ ] Page 374
+	- [x] [[Computer hardware]]
+		- [ ] Page 266
+		- [ ] Page 267
+		- [ ] Page 268
+		- [ ] Page 269
+		- [ ] Page 270
+		- [ ] Page 271
+		- [ ] Page 272
+	- [[Partitions]]
+		- [ ] Page 273
+		- [ ] Page 274
+	- [[Drivers and Device Files]]
+		- [ ] Page 274
+		- [ ] Page 275
+	- [[Android and Embedded Systems]]
+		- [ ]  Page 5
+		- [ ] Page 6
+	- [[Cloud]]
+		- [ ] Page 7
+	- [[Understanding Soft and Hard links]]
+		- [ ] Page 418
+		- [ ] Page 419
+		- [ ] Page 420
+		- [ ] Page 421
+		- [ ] Page 422
+- [x]  [[System security, users-groups and file permissions for public and private directories|System security, users/groups and file permissions for public and private directories]]
+	- [x] system security
+		- [x] [[Server Programs]]
+			- [ ] Page 23
+			- [ ] Page 24
+		- [x] [[Data Sharing]]
+			- [ ] Page 24
+			- [ ] Page 25
+		- [x] [[Network Administration]]
+			- [ ] Page 25
+			- [ ] Page 26
+		- [x] [[Privacy on the internet]]
+			- [ ] introduction - Page 57
+				- [ ] Cookie Tracking
+					- [ ] Page 57
+					- [ ] Page 58
+				- [ ] Do Not Track (DNT)
+					- [ ] Page 58
+				- [ ] what incognito doesn't and what it does
+					- [ ] Page 58
+					- [ ] Page 59
+				- [ ] Creating good password
+					- [ ] Page 59
+					- [ ] Page 60
+				- [ ] [[Encryption]] basics
+					- [ ] Page 60
+					- [ ] Page 61
+					- [ ] Page 62
+		- [x] [[Managing Processes and Logs]]
+			- [ ] view and manage processes
+				- [ ] Page 303
+				- [ ] Page 304
+				- [ ] Page 305
+				- [ ] Page 306
+				- [ ] Page 307
+			- [ ] System Load
+				- [ ] Page 307
+			- [ ] Seeing logs and rotating it
+				- [ ] Page 308
+				- [ ] Page 309
+				- [ ] Page 310
+				- [ ] Page 311
+				- [ ] Page 312
+		- [x] [[Domain Name System|dns]] (Domain Name System)
+			- [ ] Page 336
+			- [ ] Page 337
+			- [ ] Page 338
+			- [ ] Page 339
+		- [x] [[How users and group works]]
+			- [ ] Page 372 ~ Page 373
+				- [ ] /etc/passwd
+					- [ ] Page 373
+				- [ ] /etc/shadow
+					- [ ] Page 374
+					- [ ] Page 375
+				- [ ] /etc/gshadow
+					- [ ] Page 375
+					- [ ] Page 376
+				- [ ] Managing users (useradd)
+					- [ ] Page 376
+					- [ ] Page 377
+					- [ ] Page 378 ([[id]] command)
+				- [ ] /etc/skel
+					- [ ] Page 378
+				- [ ] group managing (groupadd groupdel)
+					- [ ] Page 379
+				- [ ] passwd
+					- [ ] Page 379
+					- [ ] Page 380
+		- [x] [[Temporary Files]] and permissions of them
+			- [ ] Page 416
+			- [ ] Page 417
+			- [ ] Page 418
+		- [x] [[Access Control]]
+			- [ ] Page 348
+				- [ ] Accounts basics
+					- [ ] Getting Information About Your Users
+						- [ ] Page 352
+						- [ ] Page 353
+					- [ ] Identifiers (UIDs/GIDs)
+						- [ ] Page 349
+					- [ ] The Superuser Account
+						- [ ] Page 349
+					- [ ] Standard User Accounts
+						- [ ] Page 349
+						- [ ] Page 350
+					- [ ] System Accounts
+						- [ ] Page 350
+					- [ ] Service Accounts
+						- [ ] Page 350
+						- [ ] Page 351
+					- [ ] Login Shells and Home Directories
+						- [ ] Page 351
+						- [ ] Page 352
+				- [ ] Switching users and Escalating Privileges
+					- [ ] Page 354
+					- [ ] Page 355
+				- [ ] Access Control Files
+					- [ ] Page 355
+					- [ ] Page 356
+					- [ ] Page 357
+					- [ ] Page 358
+					- [ ] Page 359
+					- [ ] Page 360
+					- [ ] Page 361
+	- [x] file [[permissions]] for public and private directories
+		- [ ] [[Execute permissions and path for execution]]
+			- [ ] Page 214
+			- [ ] Page 215
+			- [ ] Page 216
+		- [ ] [[how to read information and permissions of files and directories]]
+			- [ ] Page 391
+			- [ ] Page 392
+			- [ ] Page 393
+			- [ ] Page 394
+			- [ ] Page 395
+		- [ ] [[Managing permissions to users and groups]]
+			- [ ] Page 395
+			- [ ] Page 396
+			- [ ] Page 397
+			- [ ] Page 398
+			- [ ] Page 399
+			- [ ] Page 400
+			- [ ] Page 401
+- [x] [[Make the system accessible and able to connect to other computers on a Local Area Network (LAN)]]
+	- [x] [[Data Sharing]]
+		- [ ] Page 24
+		- [ ] Page 25
+	- [x] [[Network Administration]]
+		- [ ] Page 25
+		- [ ] Page 26
+	- [x] [[Server Programs]]
+		- [ ] Page 23
+		- [ ] Page 24
+	- [x] [[Connecting devices]]
+		- [x] Basic explanation of [[Layers]] on Network Connections
+			- [ ] Page 326
+			- [ ] Page 327
+		- [x] [[Link Layer Networking]]
+			- [ ] Page 327
+			- [ ] Page 328
+		- [x] [[IPv4]]
+			- [ ] What is used for
+				- [ ] Page 328
+			- [ ] Addressing
+				- [ ] Page 328
+				- [ ] Page 329
+			- [ ] Subnets
+				- [ ] Page 329
+			- [ ] Private Addreses
+				- [ ] Page 330
+			- [ ] Address Configuration
+				- [ ] Page 330
+				- [ ] Page 331
+			- [ ] Routing
+				- [ ] Page 332
+		- [x] [[IPv6]]
+			- [ ] IPv6 Networking
+				- [ ] Page 333
+					- [ ] IPv6 Addresses
+			- [ ] IPv6 Prefix
+				- [ ] Page 333 ~ 334
+					- [ ] Global Unique Address
+					- [ ] Unique Local Address
+					- [ ] Link Local Address
+			- [ ] Interface Identifier
+				- [ ] Page 334
+			- [ ] Address Configuration
+				- [ ] Page 334
+				- [ ] Page 335
+				- [ ] Page 336
+		- [x] DNS ([[Domain Name System]])
+			- [ ] Page 336
+			- [ ] Page 337
+			- [ ] Page 338
+			- [ ] Page 339
+		- [x] [[Sockets]]
+			- [ ] Page 338
+			- [ ] Page 339
+	- [x] [[web browsers programs]]
+		- [ ] Page 22
+- [x] [[Open Source Applications in the workplace as they relate to closed source equivalents]]
+	- [x] [[Office programs]]
+		- [ ] Page 21
+	- [x] [[web browsers programs]]
+		- [ ] Page 22
+	- [x] [[multimedia programs]]
+		- [ ] Page 22 ~ 23
+	- [x] [[Data Sharing]]
+		- [ ] Page 24
+		- [ ] Page 25
+	- [x] [[Network Administration]]
+		- [ ] Page 25
+		- [ ] Page 26
+- [x] [[File system browsers on a Linux Desktop]]
+	- [x] [[How to search for files on the File System]]
+		- [ ] Page 101
+		- [ ] Page 102
+		- [ ] Page 103
+	- [x] [[moving inside directories and Absolute path to files]]
+		- [ ] Page 114
+		- [ ] Page 115
+		- [ ] Page 116
+		- [ ] Page 117
+		- [ ] Page 118
+	- [x] [[Linux and the Linux Terminal]]
+		- [ ] Page 127
+	- [x] [[Home and $Home]]
+		- [ ] Page 127
+		- [ ] Page 128
+		- [ ] Page 129
+		- [ ] Page 130
+		- [ ] Page 131
+	- [x] [[Hidden files and Directories]]
+		- [ ] Page 131
+		- [ ] Page 132
+	- [x] How to use [[ls -l|ls]] Long List option (-l)
+		- [ ] Page 132
+		- [ ] Page 133
+	- [x] Bash and [[recursion|Recursion]]
+		- [ ] Page 133
+		- [ ] Page 134
+	- [x] [[File and Directory definition]]
+		- [ ] Page 143
+	- [x] [[Case Sensivity]]
+		- [ ] Page 144
+	- [x] [[Creating Directories]]
+		- [ ] Page 144
+		- [ ] Page 145
+		- [ ] Page 146
+	- [x] [[Creating Files]]
+		- [ ] Page 146
+		- [ ] Page 147
+	- [x] [[Renaming Files]]
+		- [ ] Page 147
+		- [ ] Page 148
+	- [x] [[Moving Files]]
+		- [ ] Page 148
+		- [ ] Page 149
+	- [x] [[Deleting Files and Directories]]
+		- [ ] Page 149
+		- [ ] Page 150
+		- [ ] Page 151
+	- [x] [[Copying Files and Directories]]
+		- [ ] Page 151
+		- [ ] Page 152
+		- [ ] Page 153
+	- [x] [[Globbing]] ***
+		- [ ] Page 153
+		- [ ] Page 154
+		- [ ] Page 155
+		- [ ] Page 156
+		- [ ] Page 157
+	- [x] [[how to read information and permissions of files and directories]]
+		- [ ] Page 391
+		- [ ] Page 392
+		- [ ] Page 393
+		- [ ] Page 394
+		- [ ] Page 395
+	- [x] [[Managing permissions to users and groups]]
+		- [ ] Page 395
+		- [ ] Page 396
+		- [ ] Page 397
+		- [ ] Page 398
+		- [ ] Page 399
+		- [ ] Page 400
+		- [ ] Page 401
+	- [x] [[Temporary Files]] and permissions of them
+		- [ ] Page 416
+		- [ ] Page 417
+		- [ ] Page 418
+	- [x] [[Understanding Soft and Hard links]]
+		- [ ] Page 418
+		- [ ] Page 419
+		- [ ] Page 420
+		- [ ] Page 421
+		- [ ] Page 422
+- [x] [[Where to go for help]]
+	- [x] Program usage (man, info)
+		- [ ] Page 97
+		- [ ] Page 98
+		- [ ] Page 99
+		- [ ] Page 100
+		- [ ] Page 101
+	- [x] [[How to search for files on the File System]]
+		- [ ] Page 101
+		- [ ] Page 102
+		- [ ] Page 103
+	- [x] [[Searching within Files with grep]]
+		- [ ] Page 200
+		- [ ] Page 201
+	- [x] [[Regular expressions]] (meta-characters usage)
+		- [ ] Page 201
+		- [ ] Page 202
+		- [ ] Page 203
+		- [ ] Page 204
+	- [x] [[What defines a Script]]
+		- [ ] Page 233
+		- [ ] Page 234
+	- [x] [[Exit Codes]]
+		- [ ] Page 234
+		- [ ] Page 235
+		- [ ] Page 236
+	- [x] Handling Many [[Arguments]]
+		- [ ] Page 236
+		- [ ] Page 237
+	- [x] [[For Loops]]
+		- [ ] Page 237
+		- [ ] Page 238
+		- [ ] Page 239
+	- [x] [[Error Checking]] using Regular Expressions
+		- [ ] Page 239
+		- [ ] Page 240
+		- [ ] Page 241
+	- [x] [[Managing Processes and Logs]]
+		- [ ] [[view and manage processes]]
+			- [ ] Page 303
+			- [ ] Page 304
+			- [ ] Page 305
+			- [ ] Page 306
+			- [ ] Page 307
+		- [ ] [[System Load]]
+			- [ ] Page 307
+		- [ ] [[Seeing logs and rotating it]]
+			- [ ] Page 308
+			- [ ] Page 309
+			- [ ] Page 310
+			- [ ] Page 311
+			- [ ] Page 312
+- [x] [[Work on the command line and with files]]
+	- [ ] Summary
+		- [ ] 298 ~ 299
+			- [ ] [[Linux and the Filesystem]]
+				- [ ] Page 283
+				- [x] [[Programs and their configuration files]]
+					- [ ] Page 283
+					- [ ] Page 284
+					- [ ] Page 285
+					- [ ] Page 286
+					- [ ] Page 287
+				- [x] [[Kernel and kernel modules]]
+					- [ ] Page 287
+					- [ ] Page 288
+					- [ ] Page 289
+				- [x] [[The proc Directory|/proc, info about hardware, running processes and the kernel]]
+					- [ ] Page 289
+				- [x] [[Hardware devices and Memory]]
+					- [ ] Page 290
+					- [ ] Page 291
+					- [ ] Page 292
+					- [ ] Page 293
+					- [ ] Page 294
+	- [x] [[Temporary Files]] and permissions of them
+		- [ ] Page 416
+		- [ ] Page 417
+		- [ ] Page 418
+	- [x] [[Understanding Soft and Hard links]]
+		- [ ] Page 418
+		- [ ] Page 419
+		- [ ] Page 420
+		- [ ] Page 421
+		- [ ] Page 422
+	- [x] [[managing packages|packages (programs) and package management]]
+		- [ ] Page 15
+		- [ ] Page 16
+		- [ ] Page 17
+		- [ ] Page 18
+		- [ ] Page 19
+		- [ ] Page 20
+	- [x] [[Server Programs]]
+		- [ ] Page 23
+		- [ ] Page 24
+	- [x] [[Data Sharing]]
+		- [ ] Page 24
+		- [ ] Page 25
+	- [x] [[Network Administration]]
+		- [ ] Page 25
+		- [ ] Page 26
+	- [x] [[Programming Languages]]
+		- [ ] Page 26
+		- [ ] Page 27
+		- [ ] Page 28
+	- [x] Linux UI, [[Desktop Environments]]
+		- [ ] Page 53
+		- [ ] Page 54
+	- [x] [[shell|Command Line]] basics
+			- [ ] Page 54
+	- [x] [[FOSS software for presentation and LaTeX code]]
+		- [ ] Page 55
+	- [x] Command line (shell)
+		- [ ] Page 72
+		- [ ] Page 73
+	- [x] [[Structure of a Command Line Query]]
+		- [ ] Page 74
+	- [x] [[Internal and External commands]]
+		- [ ] Page 75
+	- [x] [[Quoting]]
+		- [ ] Page 75
+		- [ ] Page 76
+		- [ ] Page 77
+	- [x] [[Escape Characters]]
+		- [ ] Page 77
+		- [ ] Page 78
+	- [x] [[Variables]]
+		- [ ] What are variables (Local and ENVIRONMENT)
+			- [ ] Page 85
+			- [ ] Page 86
+		- [ ] Managing Variables
+			- [ ] Page 86
+			- [ ] Page 87
+			- [ ] Page 88
+	- [x] $PATH
+		- [ ] Page 88
+		- [ ] Page 89
+		- [ ] Page 90
+	- [x] [[How to search for files on the File System]]
+		- [ ] Page 101
+		- [ ] Page 102
+		- [ ] Page 103
+	- [x] [[moving inside directories and Absolute path to files]]
+		- [ ] Page 114
+		- [ ] Page 115
+		- [ ] Page 116
+		- [ ] Page 117
+		- [ ] Page 118
+	- [x] [[What defines a Script]]
+		- [ ] Page 233
+		- [ ] Page 234
+	- [x] [[Exit Codes]]
+		- [ ] Page 234
+		- [ ] Page 235
+		- [ ] Page 236
+	- [x] Handling Many [[Arguments]]
+		- [ ] Page 236
+		- [ ] Page 237
+	- [x] [[For Loops]]
+		- [ ] Page 237
+		- [ ] Page 238
+		- [ ] Page 239
+	- [x] [[Error Checking]] using Regular Expressions
+		- [ ] Page 239
+		- [ ] Page 240
+		- [ ] Page 241
+	- [x] [[Drivers and Device Files]]
+		- [ ] Page 274
+		- [ ] Page 275
+	- [x] [[how to read information and permissions of files and directories]]
+		- [ ] Page 391
+		- [ ] Page 392
+		- [ ] Page 393
+		- [ ] Page 394
+		- [ ] Page 395
+	- [x] [[Managing permissions to users and groups]]
+		- [ ] Page 395
+		- [ ] Page 396
+		- [ ] Page 397
+		- [ ] Page 398
+		- [ ] Page 399
+		- [ ] Page 400
+		- [ ] Page 401
+	- [x] [[Special Permissions]]
+		- [ ] Page 402
+		- [ ] Page 403
+		- [ ] Page 404
+	- [x] [[Globbing]] ***
+		- [ ] Page 153
+		- [ ] Page 154
+		- [ ] Page 155
+		- [ ] Page 156
+		- [ ] Page 157
+	- [x] [[File and Directory definition]]
+		- [ ] Page 143
+	- [x] [[Case Sensivity]]
+		- [ ] Page 144
+	- [x] [[Managing file hierarchy]]
+		- [ ] [[Creating Directories]]
+			- [ ] Page 144
+			- [ ] Page 145
+			- [ ] Page 146
+		- [ ] [[Creating Files]]
+			- [ ] Page 146
+			- [ ] Page 147
+		- [ ] [[Renaming Files]]
+			- [ ] Page 147
+			- [ ] Page 148
+		- [ ] [[Moving Files]]
+			- [ ] Page 148
+			- [ ] Page 149
+		- [ ] [[Deleting Files and Directories]]
+			- [ ] Page 149
+			- [ ] Page 150
+			- [ ] Page 151
+		- [ ] [[Copying Files and Directories]]
+			- [ ] Page 151
+			- [ ] Page 152
+			- [ ] Page 153
+	- [x] Searching within Files with [[grep]]
+		- [ ] Page 200
+		- [ ] Page 201
+	- [x] [[Regular expressions]] (meta-characters usage)
+		- [ ] Page 201
+		- [ ] Page 202
+		- [ ] Page 203
+		- [ ] Page 204
+	- [x] [[view and manage processes]]
+		- [ ] Page 303
+		- [ ] Page 304
+		- [ ] Page 305
+		- [ ] Page 306
+		- [ ] Page 307
+	- [x] [[System Load]]
+		- [ ] Page 307
+	- [x] [[Seeing logs and rotating it]]
+		- [ ] Page 308
+		- [ ] Page 309
+		- [ ] Page 310
+		- [ ] Page 311
+		- [ ] Page 312
+	- [x] [[How users and group works]]
+		- [ ] Page 372 ~ Page 373
+			- [ ] /etc/passwd
+				- [ ] Page 373
+			- [ ] /etc/shadow
+				- [ ] Page 374
+				- [ ] Page 375
+			- [ ] /etc/gshadow
+				- [ ] Page 375
+				- [ ] Page 376
+			- [ ] Managing users (useradd)
+				- [ ] Page 376
+				- [ ] Page 377
+				- [ ] Page 378 ([[id]] command)
+			- [ ] /etc/skel
+				- [ ] Page 378
+			- [ ] group managing (groupadd groupdel)
+				- [ ] Page 379
+			- [ ] passwd
+				- [ ] Page 379
+				- [ ] Page 380
+- [x] [[Make and restore simple backups and archives]]
+	- [ ] [[Copying Files and Directories]]
+		- [ ] Page 151
+		- [ ] Page 152
+		- [ ] Page 153
+	- [ ] [[Globbing]] ***
+		- [ ] Page 153
+		- [ ] Page 154
+		- [ ] Page 155
+		- [ ] Page 156
+		- [ ] Page 157
+	- [ ] [[How are compressing and archiving tools different]]
+		- [ ] Page 170
+		- [ ] Page 171
+	- [ ] [[Compression Tools]]
+		- [ ] Page 171
+		- [ ] Page 172
+		- [ ] Page 173
+	- [ ] [[Archiving Tools]]
+		- [ ] Page 174
+		- [ ] Page 175
+		- [ ] Page 176
+		- [ ] Page 177
+	- [ ] [[Managing Zip Files]]
+		- [ ] Page 177
+		- [ ] Page 178
+- [x] [[Use a basic command line editor]]
+	- [x] [[Common CLI Text Editors]]
+		- [ ] Page 216
+		- [ ] Page 217
+	- [ ] Programs and their configuration files (nanorc)
+		- [ ] Page 286
+		- [ ] Page 287 
+- [x] [[File Compression]]
+	- [ ] [[How are compressing and archiving tools different]]
+		- [ ] Page 170
+		- [ ] Page 171
+	- [ ] [[Compression Tools]]
+		- [ ] Page 171
+		- [ ] Page 172
+		- [ ] Page 173
+	- [ ] [[Archiving Tools]]
+		- [ ] Page 174
+		- [ ] Page 175
+		- [ ] Page 176
+		- [ ] Page 177
+	- [ ] [[Managing Zip Files]]
+		- [ ] Page 177
+		- [ ] Page 178
+- [x] [[Create and run simple shell scripts]]
+	- [x] [[What defines a Script]]
+		- [ ] Page 233
+		- [ ] Page 234
+	- [ ] [[moving inside directories and Absolute path to files]]
+		- [ ] Page 114
+		- [ ] Page 115
+		- [ ] Page 116
+		- [ ] Page 117
+		- [ ] Page 118
+	- [x] [[Exit Codes]]
+		- [ ] Page 234
+		- [ ] Page 235
+		- [ ] Page 236
+	- [x] Handling Many [[Arguments]]
+		- [ ] Page 236
+		- [ ] Page 237
+	- [x] [[For Loops]]
+		- [ ] Page 237
+		- [ ] Page 238
+		- [ ] Page 239
+	- [x] [[Error Checking]] using Regular Expressions
+		- [ ] Page 239
+		- [ ] Page 240
+		- [ ] Page 241
+	- [x] [[Printing Output]]
+		- [ ] Page 213
+		- [ ] Page 214
+	- [x] [[Execute permissions and path for execution]]
+		- [ ] Page 214
+		- [ ] Page 215
+		- [ ] Page 216
+	- [x] [[Common CLI Text Editors]]
+		- [ ] Page 216
+		- [ ] Page 217
+	- [x] What are **variables** and how to use them(+$PATH)
+		- [ ] Page 217
+		- [ ] Page 218
+		- [ ] Page 219
+		- [ ] Page 220
+		- [ ] Page 221
+	- [x] [[Arguments]] and Scripts
+		- [ ] Page 220
+		- [ ] Page 221
+		- [ ] Page 222
+	- [x] [[Conditional Logic]] (Conditions)
+		- [ ] Page 222
+		- [ ] Page 223
+	- [x] Searching within Files with [[grep]]
+		- [ ] Page 200
+		- [ ] Page 201
+	- [x] [[Regular expressions]] (meta-characters usage)
+		- [ ] Page 201
+		- [ ] Page 202
+		- [ ] Page 203
+		- [ ] Page 204
+	- [x] [[Input-Output of programs and Redirection]]
+		- [ ] [[Definition of stdin and stdout]]
+			- [ ] Page 187
+			- [ ] [[INPUT-OUTPUT Redirection]]
+				- [ ] Page 187
+					- [ ] Redirecting Standard Output
+						- [ ] Page 188
+					- [ ] Redirecting Standard Error
+						- [ ] Page 189
+						- [ ] Page 190
+					- [ ] Redirecting Standard Input
+						- [ ] Page 190
+					- [ ] Here Documente (<<)
+						- [ ] Page 190
+						- [ ] Page 191
+			- [ ] [[Combinations for I-O Redirection]]
+				- [ ] Page 191
+				- [ ] Page 192
+		- [ ] [[Input Redirection]]
+			- [ ] Page 192
+			- [ ] Page 193
+	- [x] [[Hidden files and Directories]]
+		- [ ] Page 131
+		- [ ] Page 132
+	- [x] How to use [[ls]] Long List option (-l)
+		- [ ] Page 132
+		- [ ] Page 133
+	- [x] Bash and [[recursion|Recursion]]
+		- [ ] Page 133
+		- [ ] Page 134
+	- [x] [[Variables]]
+		- [ ] What are variables (Local and ENVIRONMENT)
+			- [ ] Page 85
+			- [ ] Page 86
+		- [ ] Managing Variables
+			- [ ] Page 86
+			- [ ] Page 87
+			- [ ] Page 88
+	- [ ] [[Managing file hierarchy]]
+		- [ ] [[Creating Directories]]
+			- [ ] Page 144
+			- [ ] Page 145
+			- [ ] Page 146
+		- [ ] [[Creating Files]]
+			- [ ] Page 146
+			- [ ] Page 147
+		- [ ] [[Renaming Files]]
+			- [ ] Page 147
+			- [ ] Page 148
+		- [ ] [[Moving Files]]
+			- [ ] Page 148
+			- [ ] Page 149
+		- [ ] [[Deleting Files and Directories]]
+			- [ ] Page 149
+			- [ ] Page 150
+			- [ ] Page 151
+		- [ ] [[Copying Files and Directories]]
+		- [ ] Page 151
+		- [ ] Page 152
+		- [ ] Page 153
+	- [x] [[$PATH]]
+		- [ ] Page 88
+		- [ ] Page 89
+		- [ ] Page 90
+	- [x] IMPORTANTE
+		- [x] [[terminal|command line]] ([[shell]])
+			- [ ] Page 72
+			- [ ] Page 73
+		- [x] [[Structure of a Command Line Query]]
+			- [ ] Page 74
+		- [x] [[Internal and External commands]]
+			- [ ] Page 75
+		- [x] [[Quoting]]
+			- [ ] Page 75
+			- [ ] Page 76
+			- [ ] Page 77
+		- [x] [[Escape Characters]]
+			- [ ] Page 77
+			- [ ] Page 78
+	- [x] [[Programming Languages]]
+		- [ ] Page 26
+		- [ ] Page 27
+		- [ ] Page 28
+
+
+regular expressions = 4
+Programming Languages = 2
+Escape Characters = 2
+Quoting = 2
+Internal and External commands = 3
+Structure of a Command Line Query = 3
+[[shell]] = 2
+$PATH = 2
+variables = 3
+recursion in bash = 2
+ls = 2

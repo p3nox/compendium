@@ -1,0 +1,5 @@
+---
+aliases:
+  - cli
+  - command line
+---

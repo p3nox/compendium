@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "397e5942d11a72ef",
+      "type": "file",
+      "file": "size reduction.png",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -520,
+      "width": 180,
+      "height": 240
+    },
+    {
+      "id": "be30eb45a491578b",
+      "type": "text",
+      "text": "Compression reduces size",
+      "styleAttributes": {},
+      "x": -340,
+      "y": -260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "53355cabe9a42504",
+      "type": "file",
+      "file": "Certificates/Linux Professional Institute/LPI-ESSENTIALS/Exam/Solutions/archiving tools/compression tools/gzip.md",
+      "styleAttributes": {},
+      "x": -380,
+      "y": -160,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "27755137cabf5b43",
+      "type": "file",
+      "file": "Certificates/Linux Professional Institute/LPI-ESSENTIALS/Exam/Solutions/archiving tools/compression tools/bzip2.md",
+      "styleAttributes": {},
+      "x": -285,
+      "y": -60,
+      "width": 150,
+      "height": 50
+    },
+    {
+      "id": "f1f01c4e93b9bf17",
+      "type": "file",
+      "file": "Certificates/Linux Professional Institute/LPI-ESSENTIALS/Exam/Solutions/archiving tools/compression tools/xz.md",
+      "styleAttributes": {},
+      "x": -167,
+      "y": -150,
+      "width": 95,
+      "height": 50
+    },
+    {
+      "id": "c5375e79980d3013",
+      "type": "text",
+      "text": "Archiving not equal to Compressing",
+      "styleAttributes": {},
+      "x": -385,
+      "y": 20,
+      "width": 350,
+      "height": 60
+    },
+    {
+      "id": "808603dde2d454d7",
+      "type": "file",
+      "file": "Certificates/Linux Professional Institute/LPI-ESSENTIALS/Exam/Solutions/archiving tools/tar.md",
+      "styleAttributes": {},
+      "x": 73,
+      "y": -362,
+      "width": 427,
+      "height": 162
+    },
+    {
+      "id": "e2d65871d412056f",
+      "type": "text",
+      "text": "Zip can be used as Archiving and Compressing tool",
+      "styleAttributes": {},
+      "x": 137,
+      "y": -130,
+      "width": 300,
+      "height": 55
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1115fc931c43691",
+      "styleAttributes": {},
+      "fromNode": "be30eb45a491578b",
+      "fromSide": "left",
+      "toNode": "53355cabe9a42504",
+      "toSide": "left"
+    },
+    {
+      "id": "7822d9ade8b91009",
+      "styleAttributes": {},
+      "fromNode": "be30eb45a491578b",
+      "fromSide": "bottom",
+      "toNode": "27755137cabf5b43",
+      "toSide": "top"
+    },
+    {
+      "id": "34e057f3300af319",
+      "styleAttributes": {},
+      "fromNode": "be30eb45a491578b",
+      "fromSide": "right",
+      "toNode": "f1f01c4e93b9bf17",
+      "toSide": "right"
+    },
+    {
+      "id": "005d3769a511ad08",
+      "styleAttributes": {},
+      "fromNode": "c5375e79980d3013",
+      "fromSide": "right",
+      "toNode": "808603dde2d454d7",
+      "toSide": "left"
+    },
+    {
+      "id": "61d54bb0e5604135",
+      "styleAttributes": {},
+      "fromNode": "397e5942d11a72ef",
+      "fromSide": "right",
+      "toNode": "808603dde2d454d7",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

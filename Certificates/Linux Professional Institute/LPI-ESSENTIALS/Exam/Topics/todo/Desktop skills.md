@@ -1,0 +1,6 @@
+- Using a browser
+- privacy concerns
+- configuration options
+- searching the web
+- saving content
+- Use of common open source applications in presentations and projects

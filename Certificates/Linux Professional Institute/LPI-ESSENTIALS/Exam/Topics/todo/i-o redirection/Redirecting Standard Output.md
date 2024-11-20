@@ -1,0 +1,2 @@
+- [ ] [[Redirecting Standard Output]]
+	- [ ] Page 188

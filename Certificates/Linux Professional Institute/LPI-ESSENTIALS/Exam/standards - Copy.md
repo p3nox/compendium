@@ -1,0 +1,320 @@
+###index from [[LPI-Learning-Material-010-160-en.pdf]]
+- [x]   - [[Free and Open Source Software, the various communities and licenses]]
+	- [x]  [[Free and Open Source Software]]
+		- [ ] what is Open Source?
+		- [ ] [[Open Source Software vs. Free Software]]
+		- [x] [[Business Models in Open Source]]
+	- [x] The Various Communities
+		- [x] [[Industry uses]]
+		- [x] [[Cloud]]
+		- [x] [[Non Linux Operating Systems]]
+			- [ ] Unix
+			- [ ] MacOS
+			- [ ] Windows
+		- [x] [[Usages of Linux Distros]]
+			- [ ] [[Support Lifecycle]]
+			- [ ] [[Linux Desktop]]
+			- [ ] [[Linux on Servers]]
+			- [ ] [[Linux and the Cloud]]
+		- [x] [[Types of Linux Distributions]]
+		- [x] [[Business Models in Open Source]]
+		- [x] [[Distributions|Distros]]
+	- [x] Licenses
+		- [x] [[Licenses]]
+- [x] [[Processes, programs and the components of an operating system]]
+	- [x] processes
+		- [x] [[Exit Codes]]
+		- [x] [[Error Checking]] using Regular Expressions
+		- [x] [[view and manage processes]]
+		- [x] [[System Load]]
+		- [x] [[Seeing logs and rotating it]]
+		- [x] [[Sockets]]
+	- [x] programs
+		- [x] [[managing packages|packages (programs) and package management]]
+		- [x] [[Structure of a Command Line Query]]
+		- [x] [[Internal and External commands]]
+		- [x] [[Execute permissions]] and path for execution
+		- [x] What are **[[variables]]** and how to use them(+$PATH)
+		- [x] [[Programs and their configuration files]]
+		- [x] [[Kernel and kernel modules]]
+		- [x] /[[The proc Directory]], info about hardware, running processes and the kernel
+		- [x] [[Hardware devices and Memory]]
+	- [x] components of an Operating System
+		- [x] [[what is linux]]
+		- [x] [[Distributions|Distros]]
+		- [x] [[Android and Embedded Systems]]
+		- [x] [[Cloud]]
+		- [x] [[moving inside directories and Absolute path to files]]
+		- [x] [[Regular expressions]] (meta-characters usage)
+		- [x] [[Execute permissions]] and path for execution
+		- [x] [[Widely used systems and how to choose from]]
+			- [ ] [[What Is as Operating System]]
+			- [ ] [[what is linux]]
+			- [ ] [[Types of Linux Distributions]]
+			- [ ] [[Usages of Linux Distros]]
+				- [ ] [[Support Lifecycle]]
+				- [ ] [[Linux Desktop]]
+				- [ ] [[Linux on Servers]]
+				- [ ] [[Linux and the Cloud]]
+			- [ ] [[Non Linux Operating Systems]]
+				- [ ] Unix
+				- [ ] MacOS
+				- [ ] Windows
+		- [x] Linux UI, [[Desktop Environments]]
+		- [x] [[Programs and their configuration files]]
+		- [x] [[Kernel and kernel modules]]
+		- [x] /[[The proc Directory]], info about hardware, running processes and the kernel
+		- [x] [[Hardware devices and Memory]]
+		- [x] [[Drivers and Device Files]]
+- [x] [[Computer hardware]]
+	- [[Kernel and kernel modules]]
+	- /[[The proc Directory]], info about hardware, running processes and the kernel
+	-  [[Hardware devices and Memory]]
+	-  [[Peripherals]]
+	- [x] [[Computer hardware]]
+	- [[Partitions]]
+	- [[Drivers and Device Files]]
+	- [[Android and Embedded Systems]]
+	- [[Cloud]]
+	- [[Understanding Soft and Hard links]]
+- [x]  [[System security, users-groups and file permissions for public and private directories|System security, users/groups and file permissions for public and private directories]]
+	- [x] system security
+		- [x] [[Server Programs]]
+		- [x] [[Data Sharing]]
+		- [x] [[Network Administration]]
+		- [x] [[Privacy on the internet]]
+				- [ ] Cookie Tracking
+				- [ ] Do Not Track (DNT)
+				- [ ] what incognito doesn't and what it does
+				- [ ] Creating good password
+				- [ ] [[Encryption]] basics
+		- [x] [[Managing Processes and Logs]]
+			- [ ] view and manage processes
+			- [ ] System Load
+			- [ ] Seeing logs and rotating it
+		- [x] [[Domain Name System|dns]] (Domain Name System)
+		- [x] [[How users and group works]]
+				- [ ] /etc/passwd
+				- [ ] /etc/shadow
+				- [ ] /etc/gshadow
+				- [ ] Managing users (useradd)
+				- [ ] /etc/skel
+				- [ ] group managing (groupadd groupdel)
+				- [ ] passwd
+		- [x] [[Temporary Files]] and permissions of them
+		- [x] [[Access Control]]
+				- [ ] Accounts basics
+					- [ ] Getting Information About Your Users
+					- [ ] Identifiers (UIDs/GIDs)
+					- [ ] The Superuser Account
+					- [ ] Standard User Accounts
+					- [ ] System Accounts
+					- [ ] Service Accounts
+					- [ ] Login Shells and Home Directories
+				- [ ] Switching users and Escalating Privileges
+				- [ ] Access Control Files
+	- [x] file [[permissions]] for public and private directories
+		- [ ] [[Execute permissions and path for execution]]
+		- [ ] [[how to read information and permissions of files and directories]]
+		- [ ] [[Managing permissions to users and groups]]
+- [x] [[Make the system accessible and able to connect to other computers on a Local Area Network (LAN)]]
+	- [x] [[Data Sharing]]
+	- [x] [[Network Administration]]
+	- [x] [[Server Programs]]
+	- [x] [[Connecting devices]]
+		- [x] Basic explanation of [[Layers]] on Network Connections
+		- [x] [[Link Layer Networking]]
+		- [x] [[IPv4]]
+			- [ ] What is used for
+			- [ ] Addressing
+			- [ ] Subnets
+			- [ ] Private Addreses
+			- [ ] Address Configuration
+			- [ ] Routing
+		- [x] [[IPv6]]
+			- [ ] IPv6 Networking
+					- [ ] IPv6 Addresses
+			- [ ] IPv6 Prefix
+					- [ ] Global Unique Address
+					- [ ] Unique Local Address
+					- [ ] Link Local Address
+			- [ ] Interface Identifier
+			- [ ] Address Configuration
+		- [x] DNS ([[Domain Name System]])
+		- [x] [[Sockets]]
+	- [x] [[web browsers programs]]
+- [x] [[Open Source Applications in the workplace as they relate to closed source equivalents]]
+	- [x] [[Office programs]]
+	- [x] [[web browsers programs]]
+	- [x] [[multimedia programs]]
+	- [x] [[Data Sharing]]
+	- [x] [[Network Administration]]
+- [x] [[File system browsers on a Linux Desktop]]
+	- [x] [[How to search for files on the File System]]
+	- [x] [[moving inside directories and Absolute path to files]]
+	- [x] [[Linux and the Linux Terminal]]
+	- [x] [[Home and $Home]]
+	- [x] [[Hidden files and Directories]]
+	- [x] How to use [[ls -l|ls]] Long List option (-l)
+	- [x] Bash and [[recursion|Recursion]]
+	- [x] [[File and Directory definition]]
+	- [x] [[Case Sensivity]]
+	- [x] [[Creating Directories]]
+	- [x] [[Creating Files]]
+	- [x] [[Renaming Files]]
+	- [x] [[Moving Files]]
+	- [x] [[Deleting Files and Directories]]
+	- [x] [[Copying Files and Directories]]
+	- [x] [[Globbing]] ***
+	- [x] [[how to read information and permissions of files and directories]]
+	- [x] [[Managing permissions to users and groups]]
+	- [x] [[Temporary Files]] and permissions of them
+	- [x] [[Understanding Soft and Hard links]]
+- [x] [[Where to go for help]]
+	- [x] Program usage (man, info)
+	- [x] [[How to search for files on the File System]]
+	- [x] [[Searching within Files with grep]]
+	- [x] [[Regular expressions]] (meta-characters usage)
+	- [x] [[What defines a Script]]
+	- [x] [[Exit Codes]]
+	- [x] Handling Many [[Arguments]]
+	- [x] [[For Loops]]
+	- [x] [[Error Checking]] using Regular Expressions
+	- [x] [[Managing Processes and Logs]]
+		- [ ] [[view and manage processes]]
+		- [ ] [[System Load]]
+		- [ ] [[Seeing logs and rotating it]]
+- [x] [[Work on the command line and with files]]
+	- [ ] Summary
+		- [ ] 298 ~ 299
+			- [ ] [[Linux and the Filesystem]]
+				- [x] [[Programs and their configuration files]]
+				- [x] [[Kernel and kernel modules]]
+				- [x] [[The proc Directory|/proc, info about hardware, running processes and the kernel]]
+				- [x] [[Hardware devices and Memory]]
+	- [x] [[Temporary Files]] and permissions of them
+	- [x] [[Understanding Soft and Hard links]]
+	- [x] [[managing packages|packages (programs) and package management]]
+	- [x] [[Server Programs]]
+	- [x] [[Data Sharing]]
+	- [x] [[Network Administration]]
+	- [x] [[Programming Languages]]
+	- [x] Linux UI, [[Desktop Environments]]
+	- [x] [[shell|Command Line]] basics
+	- [x] [[FOSS software for presentation and LaTeX code]]
+	- [x] Command line (shell)
+	- [x] [[Structure of a Command Line Query]]
+	- [x] [[Internal and External commands]]
+	- [x] [[Quoting]]
+	- [x] [[Escape Characters]]
+	- [x] [[Variables]]
+		- [ ] What are variables (Local and ENVIRONMENT)
+		- [ ] Managing Variables
+	- [x] $PATH
+	- [x] [[How to search for files on the File System]]
+	- [x] [[moving inside directories and Absolute path to files]]
+	- [x] [[What defines a Script]]
+	- [x] [[Exit Codes]]
+	- [x] Handling Many [[Arguments]]
+	- [x] [[For Loops]]
+	- [x] [[Error Checking]] using Regular Expressions
+	- [x] [[Drivers and Device Files]]
+	- [x] [[how to read information and permissions of files and directories]]
+	- [x] [[Managing permissions to users and groups]]
+	- [x] [[Special Permissions]]
+	- [x] [[Globbing]] ***
+	- [x] [[File and Directory definition]]
+	- [x] [[Case Sensivity]]
+	- [x] [[Managing file hierarchy]]
+		- [ ] [[Creating Directories]]
+		- [ ] [[Creating Files]]
+		- [ ] [[Renaming Files]]
+		- [ ] [[Moving Files]]
+		- [ ] [[Deleting Files and Directories]]
+		- [ ] [[Copying Files and Directories]]
+	- [x] Searching within Files with [[grep]]
+	- [x] [[Regular expressions]] (meta-characters usage)
+	- [x] [[view and manage processes]]
+	- [x] [[System Load]]
+	- [x] [[Seeing logs and rotating it]]
+	- [x] [[How users and group works]]
+			- [ ] /etc/passwd
+			- [ ] /etc/shadow
+			- [ ] /etc/gshadow
+			- [ ] Managing users (useradd)
+			- [ ] /etc/skel
+			- [ ] group managing (groupadd groupdel)
+			- [ ] passwd
+- [x] [[Make and restore simple backups and archives]]
+	- [ ] [[Copying Files and Directories]]
+	- [ ] [[Globbing]] ***
+	- [ ] [[How are compressing and archiving tools different]]
+	- [ ] [[Compression Tools]]
+	- [ ] [[Archiving Tools]]
+	- [ ] [[Managing Zip Files]]
+- [x] [[Use a basic command line editor]]
+	- [x] [[Common CLI Text Editors]]
+	- [ ] Programs and their configuration files (nanorc)
+- [x] [[File Compression]]
+	- [ ] [[How are compressing and archiving tools different]]
+	- [ ] [[Compression Tools]]
+	- [ ] [[Archiving Tools]]
+	- [ ] [[Managing Zip Files]]
+- [x] [[Create and run simple shell scripts]]
+	- [x] [[What defines a Script]]
+	- [ ] [[moving inside directories and Absolute path to files]]
+	- [x] [[Exit Codes]]
+	- [x] Handling Many [[Arguments]]
+	- [x] [[For Loops]]
+	- [x] [[Error Checking]] using Regular Expressions
+	- [x] [[Printing Output]]
+	- [x] [[Execute permissions and path for execution]]
+	- [x] [[Common CLI Text Editors]]
+	- [x] What are **variables** and how to use them(+$PATH)
+	- [x] [[Arguments]] and Scripts
+	- [x] [[Conditional Logic]] (Conditions)
+	- [x] Searching within Files with [[grep]]
+	- [x] [[Regular expressions]] (meta-characters usage)
+	- [x] [[Input-Output of programs and Redirection]]
+		- [ ] [[Definition of stdin and stdout]]
+			- [ ] [[INPUT-OUTPUT Redirection]]
+					- [ ] Redirecting Standard Output
+					- [ ] Redirecting Standard Error
+					- [ ] Redirecting Standard Input
+					- [ ] Here Documente (<<)
+			- [ ] [[Combinations for I-O Redirection]]
+		- [ ] [[Input Redirection]]
+	- [x] [[Hidden files and Directories]]
+	- [x] How to use [[ls]] Long List option (-l)
+	- [x] Bash and [[recursion|Recursion]]
+	- [x] [[Variables]]
+		- [ ] What are variables (Local and ENVIRONMENT)
+		- [ ] Managing Variables
+	- [ ] [[Managing file hierarchy]]
+		- [ ] [[Creating Directories]]
+		- [ ] [[Creating Files]]
+		- [ ] [[Renaming Files]]
+		- [ ] [[Moving Files]]
+		- [ ] [[Deleting Files and Directories]]
+		- [ ] [[Copying Files and Directories]]
+	- [x] [[$PATH]]
+	- [x] IMPORTANTE
+		- [x] [[terminal|command line]] ([[shell]])
+		- [x] [[Structure of a Command Line Query]]
+		- [x] [[Internal and External commands]]
+		- [x] [[Quoting]]
+		- [x] [[Escape Characters]]
+	- [x] [[Programming Languages]]
+
+
+regular expressions = 4
+Programming Languages = 2
+Escape Characters = 2
+Quoting = 2
+Internal and External commands = 3
+Structure of a Command Line Query = 3
+[[shell]] = 2
+$PATH = 2
+variables = 3
+recursion in bash = 2
+ls = 2

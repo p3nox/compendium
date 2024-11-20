@@ -1,0 +1,15 @@
+- [ ] [[Variables]]
+	- [ ] What are variables (Local and ENVIRONMENT)
+		- [ ] Page 85
+		- [ ] Page 86
+	- [ ] Managing Variables
+		- [ ] Page 86
+		- [ ] Page 87
+		- [ ] Page 88
+
+	- [ ] What are **variables** and how to use them(+$PATH)
+		- [ ] Page 217
+		- [ ] Page 218
+		- [ ] Page 219
+		- [ ] Page 220
+		- [ ] Page 221

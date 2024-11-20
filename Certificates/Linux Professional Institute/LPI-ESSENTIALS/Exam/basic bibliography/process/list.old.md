@@ -1,0 +1,805 @@
+Topic 1: The Linux Community and a Career in Open Source
+- [ ] Page 1
+	- [ ] 1.1 Linux Evolution and Popular Operating Systems
+		- [ ] Index
+			- [ ] Item 2
+		- [ ] Summary
+			- [ ] Item 10
+				- [ ] what is linux
+					- [ ] Item 2
+					- [ ] Item 3
+				- [ ] Distros
+					- [ ] Item 4
+					- [ ] Item 5
+				- [ ] Android and Embedded Systems
+					- [ ]  Item 5
+					- [ ] Item 6
+				- [ ] Cloud
+					- [ ] Item 7
+		- [ ] Exercises
+			- [ ] Item 8
+			- [ ] Item 9
+			- [ ] Item 10
+			- [ ] Item 11
+			- [ ] Item 12
+			- [ ] Item 13
+	- [ ] 1.2 Major Open Source Applications
+		- [ ] Index
+			- [ ] Item 14
+		- [ ] Summary
+			- [ ] Item 32
+				- [ ] packages (programs) and package management
+					- [ ] Item 15
+					- [ ] Item 16
+					- [ ] Item 17
+					- [ ] Item 18
+					- [ ] Item 19
+					- [ ] Item 20
+				- [ ] Office programs
+					- [ ] Item 21
+				- [ ] web browsers programs
+					- [ ] Item 22
+				- [ ] multimedia programs
+					- [ ] Item 22 ~ 23
+				- [ ] Server Programs
+					- [ ] Item 23
+					- [ ] Item 24
+				- [ ] Data Sharing
+					- [ ] Item 24
+					- [ ] Item 25
+				- [ ] Network Administration
+					- [ ] Item 25
+					- [ ] Item 26
+				- [ ] Programming Languages
+					- [ ] Item 26
+					- [ ] Item 27
+					- [ ] Item 28
+		- [ ] Exercises
+			- [ ] Item 29
+			- [ ] Item 30
+			- [ ] Item 31
+			- [ ] Item 32
+			- [ ] Item 33
+			- [ ] Item 34
+			- [ ] Item 35
+	- [ ] 1.3 Open Source Software and Licensing
+		- [ ] Index
+			- [ ] Item 36
+		- [ ] Summary
+			- [ ] 48
+				- [ ] what is Open Source?
+					- [ ] Item 37
+					- [ ] Item 38
+				- [ ] Open Source Software vs. Free Software
+					- [ ] Item 39
+				- [ ] Licenses
+					- [ ] Item 40
+					- [ ] Item 41
+					- [ ] Item 42
+					- [ ] Item 43
+					- [ ]  Item 44
+				- [ ] Business Models in Open Source
+					- [ ] Item 44
+					- [ ] Item 45
+		- [ ] Exercises
+			- [ ] Item 46
+			- [ ] Item 47
+			- [ ] Item 48
+			- [ ] Item 49
+			- [ ] Item 50
+			- [ ] Item 51
+	- [ ] 1.4 ICT Skills and Working in Linux
+	- [ ] Index
+		- [ ] Item 52
+	- [ ] Summary
+		- [ ] Item 66
+			- [ ] Linux UI, Desktop Environments
+				- [ ] Item 53
+				- [ ] Item 54
+			- [ ] Command Line basics
+				- [ ] Item 54
+			- [ ] FOSS software for presentation and LaTeX code
+				- [ ] Item 55
+			- [ ] Industry uses
+				- [ ] Item 56
+				- [ ] Item 57
+			- [ ] Privacy on the internet
+				- [ ] introduction - Item 57
+					- [ ] Cookie Tracking
+						- [ ] Item 57
+						- [ ] Item 58
+					- [ ] Do Not Track (DNT)
+						- [ ] Item 58
+					- [ ] what incognito doesn't and what it does
+						- [ ] Item 58
+						- [ ] Item 59
+					- [ ] Creating good password
+						- [ ] Item 59
+						- [ ] Item 60
+					- [ ] Encryption basics
+						- [ ] Item 60
+						- [ ] Item 61
+						- [ ] Item 62
+	- [ ]  Exercises
+		- [ ] Item 63
+		- [ ] Item 64
+		- [ ] Item 65
+		- [ ] Item 66
+		- [ ] Item 67
+		- [ ] Item 68
+		- [ ] Item 69
+
+Topic 2: Finding Your Way on a Linux System
+- [ ] Page 70
+	- [ ] 2.1 Command Line Basics
+		- [ ] Index
+			- [ ] Item 71
+		- [ ]  Summary
+			- [ ] Item 82
+				- [ ] Command line (shell)
+					- [ ] Item 72
+					- [ ] Item 73
+				- [ ] Structure of a Command Line Query
+					- [ ] Item 74
+				- [ ] Internal and External commands
+					- [ ] Item 75
+				- [ ] Quoting
+					- [ ] Item 75
+					- [ ] Item 76
+					- [ ] Item 77
+				- [ ] Escape Characters
+					- [ ] Item 77
+					- [ ] Item 78
+			- [ ] Item 93
+				- [ ] Variables
+					- [ ] What are variables (Local and ENVIRONMENT)
+						- [ ] Item 85
+						- [ ] Item 86
+					- [ ] Managing Variables
+						- [ ] Item 86
+						- [ ] Item 87
+						- [ ] Item 88
+				- [ ] $PATH
+					- [ ] Item 88
+					- [ ] Item 89
+					- [ ] Item 90
+		- [ ] Exercises
+			- [ ] Item 79
+			- [ ] Item 80
+			- [ ] Item 81
+			- [ ] Item 82
+			- [ ] Item 83
+			- [ ] Item 84
+			Topic subset
+			- [ ] Item 91
+			- [ ] Item 92
+			- [ ] Item 93
+			- [ ] Item 94
+			- [ ] Item 95
+			- [ ] Item 96
+	- [ ] 2.2 Using the Command Line to Get Help
+		- [ ] Index
+			- [ ] 97
+		- [ ] Summary
+			- [ ] 107
+				- [ ] Program usage (man, info)
+					- [ ] Item 97
+					- [ ] Item 98
+					- [ ] Item 99
+					- [ ] Item 100
+					- [ ] Item 101
+				- [ ] How to search for Pages on the Page System
+					- [ ] Item 101
+					- [ ] Item 102
+					- [ ] Item 103
+		- [ ] Exercises
+			- [ ] Item 104
+			- [ ] Item 105
+			- [ ] Item 106
+			- [ ] Item 107
+			- [ ] Item 108
+			- [ ] Item 109
+			- [ ] Item 110
+			- [ ] Item 111
+			- [ ] Item 112
+	- [ ] 2.3 Using Directories and Listing Pages
+		- [ ] Index
+			- [ ] 113
+		- [ ] Summary
+			- [ ] 122
+				- [ ] moving inside directories and Absolute path to Pages
+					- [ ] Item 114
+					- [ ] Item 115
+					- [ ] Item 116
+					- [ ] Item 117
+					- [ ] Item 118
+			- [ ] 138
+				- [ ] Linux and the Linux Terminal
+					- [ ] Item 127
+				- [ ] Home and $Home
+					- [ ] Item 127
+					- [ ] Item 128
+					- [ ] Item 129
+					- [ ] Item 130
+					- [ ] Item 131
+				- [ ] Hidden Pages and Directories
+					- [ ] Item 131
+					- [ ] Item 132
+				- [ ] How to use ls Long List option (-l)
+					- [ ] Item 132
+					- [ ] Item 133
+				- [ ] Bash and Recursion
+					- [ ] Item 133
+					- [ ] Item 134
+		- [ ] Exercises
+			- [ ] pwd, absolute and relative path
+				- [ ] Item 119
+				- [ ] Item 120
+				- [ ] Item 121
+				- [ ] Item 122
+				- [ ] Item 123
+				- [ ] Item 124
+				- [ ] Item 125
+				- [ ] Item 126
+			- [ ] (du command) folder structure and hidden Pages
+				- [ ] Item 135
+				- [ ] Item 136
+				- [ ] Item 137
+				- [ ] Item 138
+				- [ ] Item 139
+				- [ ] Item 140
+				- [ ] Item 141
+	- [ ] 2.4 Creating, Moving and Deleting Pages
+		- [ ] Index
+			- [ ] Item 142
+		- [ ] Summary
+			- [ ] 161 ~ 162
+				- [ ] Page and Directory definition
+					- [ ] Page 143
+				- [ ] Case Sensivity
+					- [ ] Page 144
+				- [ ] Creating Directories
+					- [ ] Page 144
+					- [ ] Page 145
+					- [ ] Page 146
+				- [ ] Creating Pages
+					- [ ] Page 146
+					- [ ] Page 147
+				- [ ] Renaming Pages
+					- [ ] Page 147
+					- [ ] Page 148
+				- [ ] Moving Pages
+					- [ ] Page 148
+					- [ ] Page 149
+				- [ ] Deleting Pages and Directories
+					- [ ] Page 149
+					- [ ] Page 150
+					- [ ] Page 151
+				- [ ] Copying Pages and Directories
+					- [ ] Page 151
+					- [ ] Page 152
+					- [ ] Page 153
+				- [ ] Globbing ***
+					- [ ] Page 153
+					- [ ] Page 154
+					- [ ] Page 155
+					- [ ] Page 156
+					- [ ] Page 157
+		- [ ] Exercises
+			- [ ] 158 ~ 167
+			- [ ] Item 158
+			- [ ] Item 159
+			- [ ] Item 160
+			- [ ] Item 161
+			- [ ] Item 162
+			- [ ] Item 163
+			- [ ] Item 164
+			- [ ] Item 165
+			- [ ] Item 166
+			- [ ] Item 167
+
+Topic 3: The Power of the Command Line
+- [ ] Page 168
+	- [ ] 3.1 Archiving Pages on the Command Line
+		- [ ] Index
+			- [ ] 169
+		- [ ] Summary
+			- [ ] 181 ~ 182
+				- [ ] Difference between Compression and Archiving tools
+					- [ ] Item 170
+					- [ ] Item 171
+				- [ ] Compression Tools
+					- [ ] Item 171
+					- [ ] Item 172
+					- [ ] Item 173
+				- [ ] Archiving Tools
+					- [ ] Item 174
+					- [ ] Item 175
+					- [ ] Item 176
+					- [ ] Item 177
+				- [ ] Managing Zip Pages
+					- [ ] Item 177
+					- [ ] Item 178
+		- [ ] Exercises
+			- [ ] Item 179
+			- [ ] Item 180
+			- [ ] Item 181
+			- [ ] Item 182
+			- [ ] Item 183
+			- [ ] Item 184
+			- [ ] Item 185
+	- [ ] 3.2 Searching and Extracting Data from Pages
+		- [ ] Index
+			- [ ] Page 186
+		- [ ] Summary
+			- [ ] Page 196
+				- [ ] Input/Output of programs and Redirection
+					- [ ] Definition of stdin and stdout
+						- [ ] Page 187
+						- [ ] I/O Redirection
+							- [ ] Page 187
+								- [ ] Redirecting Standard Output
+									- [ ] Page 188
+								- [ ] Redirecting Standard Error
+									- [ ] Page 189
+									- [ ] Page 190
+								- [ ] Redirecting Standard Input
+									- [ ] Page 190
+								- [ ] Here Documente (<<)
+									- [ ] Page 190
+									- [ ] Page 191
+						- [ ] Combinations for I/O Redirection
+							- [ ] Page 191
+							- [ ] Page 192
+					- [ ] Pipe automatic Output/Input Redirection
+						- [ ] Page 192
+						- [ ] Page 193
+			- [ ] Page 207
+				- [ ] Searching within Pages with grep
+					- [ ] Page 200
+					- [ ] Page 201
+				- [ ] Regular expressions (meta-characters usage)
+					- [ ] Item 201
+					- [ ] Item 202
+					- [ ] Item 203
+					- [ ] Item 204
+		- [ ] Exercises
+			- [ ] 194 ~ 199
+				- [ ] Page 194
+				- [ ] Page 195
+				- [ ] Page 196
+				- [ ] Page 197
+				- [ ] Page 198
+				- [ ] Page 199
+			- [ ] 205 ~ 211
+				- [ ] Page 205
+				- [ ] Page 206
+				- [ ] Page 207
+				- [ ] Page 208
+				- [ ] Page 209
+				- [ ] Page 210
+				- [ ] Page 211
+	- [ ] 3.3 Turning Commands into a Script
+		- [ ] Index
+			- [ ] 212
+		- [ ] Summary
+			- [ ] Page 227 ~ 228
+				- [ ] Printing Output
+					- [ ] Page 213
+					- [ ] Page 214
+				- [ ] Execute permissions and path for execution
+					- [ ] Item 214
+					- [ ] Item 215
+					- [ ] Item 216
+				- [ ] Common CLI Text Editors
+					- [ ] Page 216
+					- [ ] Page 217
+				- [ ] What are **variables** and how to use them(+$PATH)
+					- [ ] Item 217
+					- [ ] Item 218
+					- [ ] Item 219
+					- [ ] Item 220
+					- [ ] Item 221
+				- [ ] Arguments and Scripts
+					- [ ] Page 220
+					- [ ] Page 221
+					- [ ] Page 222
+				- [ ] Conditional Logic (Conditions)
+					- [ ] Page 222
+					- [ ] Page 223
+			- [ ] Page 245
+				- [ ] What defines a Script
+					- [ ] Page 233
+					- [ ] Page 234
+				- [ ] Exit Codes
+					- [ ] Page 234
+					- [ ] Page 235
+					- [ ] Page 236
+				- [ ] Handling Many Arguments
+					- [ ] Page 236
+					- [ ] Page 237
+				- [ ] For Loops
+					- [ ] Page 237
+					- [ ] Page 238
+					- [ ] Page 239
+				- [ ] Error Checking using Regular Expressions
+					- [ ] Page 239
+					- [ ] Page 240
+					- [ ] Page 241
+		- [ ] Exercises
+			- [ ] 224 ~ 232
+				- [ ] Item 224
+				- [ ] Item 225
+				- [ ] Item 226
+				- [ ] Item 227
+				- [ ] Item 228
+				- [ ] Item 229
+				- [ ] Item 230
+				- [ ] Item 231
+				- [ ] Item 232
+			- [ ] 242 ~ 248
+				- [ ] Item 242
+				- [ ] Item 243
+				- [ ] Item 244
+				- [ ] Item 245
+				- [ ] Item 246
+				- [ ] Item 247
+				- [ ] Item 248
+
+Topic 4: The Linux Operating System
+- [ ] Page 249
+	- [ ] 4.1 Choosing an Operating System
+		- [ ] Index
+			- [ ] 250
+		- [ ] Summary
+			- [ ] 261
+				- [ ] Widely used systems and how to choose from
+					- [ ] What Is as Operating System
+						- [ ] Page 251
+						- [ ] Page 252
+					- [ ] What is Linux
+						- [ ] Page 252
+					- [ ] Types of Linux Distributions
+						- [ ] Page 253
+						- [ ] Page 254
+						- [ ] Page 255
+					- [ ] Usages of Linux Distros
+						- [ ] Support Lifecycle
+							- [ ] Page 255
+						- [ ] Linux Desktop
+							- [ ] Page 255
+						- [ ] Linux on Servers
+							- [ ] Page 256
+						- [ ] Linux and Cloud
+							- [ ] Page 256
+					- [ ] Non Linux Operating Systems
+							- [ ] Unix
+								- [ ] Page 256
+								- [ ] Page 257
+							- [ ] MacOS
+								- [ ] Page 257
+							- [ ] Windows
+								- [ ] Page 257
+		- [ ] Exercises
+			- [ ] 258 ~ 264
+				- [ ] Item 258
+				- [ ] Item 259
+				- [ ] Item 260
+				- [ ] Item 261
+				- [ ] Item 262
+				- [ ] Item 263
+				- [ ] Item 264
+	- [ ] 4.2 Understanding Computer Hardware
+		- [ ] Index
+			- [ ] 265
+		- [ ] Summary
+			- [ ] 278
+				- [ ] Computer hardware
+					- [ ] Item 266
+					- [ ] Item 267
+					- [ ] Item 268
+					- [ ] Item 269
+					- [ ] Item 270
+					- [ ] Item 271
+					- [ ] Item 272
+				- [ ] Partitions
+					- [ ] Item 273
+					- [ ] Item 274
+				- [ ] Peripherals
+					- [ ] Page 373
+					- [ ] Page 374
+				- [ ] Drivers and Device Pages
+					- [ ] Item 274
+					- [ ] Item 275
+		- [ ] Exercises
+			- [ ] 276 ~ 281
+				- [ ] Item 276
+				- [ ] Item 277
+				- [ ] Item 278
+				- [ ] Item 279
+				- [ ] Item 280
+				- [ ] Item 281
+	- [ ] 4.3 Where Data is Stored
+		- [ ] Index
+			- [ ] 282
+		- [ ] Summary
+			- [ ] 298 ~ 299
+				- [ ] Linux and the Pagesystem
+					- [ ] Page 283
+					- [ ] Programs and their configuration Pages
+						- [ ] Item 283
+						- [ ] Item 284
+						- [ ] Item 285
+						- [ ] Item 286
+						- [ ] Item 287
+					- [ ] Kernel and kernel modules
+						- [ ] Item 287
+						- [ ] Item 288
+						- [ ] Item 289
+					- [ ] /proc, info about hardware, running processes and the kernel
+						- [ ] Item 289
+					- [ ] Hardware devices and Memory
+						- [ ] Item 290
+						- [ ] Item 291
+						- [ ] Item 292
+						- [ ] Item 293
+						- [ ] Item 294
+			- [ ] 318 ~ 319
+				- [ ] Managing Processes and Logs
+					- [ ] view and manage processes
+						- [ ] Item 303
+						- [ ] Item 304
+						- [ ] Item 305
+						- [ ] Item 306
+						- [ ] Item 307
+					- [ ] System Load
+						- [ ] Item 307
+					- [ ] Seeing logs and rotating it
+						- [ ] Item 308
+						- [ ] Item 309
+						- [ ] Item 310
+						- [ ] Item 311
+						- [ ] Item 312
+		- [ ] Exercises
+			- [ ] 295 ~ 302
+				- [ ] Item 295
+				- [ ] Item 296
+				- [ ] Item 297
+				- [ ] Item 298
+				- [ ] Item 299
+				- [ ] Item 300
+				- [ ] Item 301
+				- [ ] Item 302
+			- [ ] 313 ~ 324
+				- [ ] Item 313
+				- [ ] Item 314
+				- [ ] Item 315
+				- [ ] Item 316
+				- [ ] Item 317
+				- [ ] Item 318
+				- [ ] Item 319
+				- [ ] Item 320
+				- [ ] Item 321
+				- [ ] Item 322
+				- [ ] Item 323
+				- [ ] Item 324
+	- [ ] 4.4 Your Computer on the Network
+		- [ ] Index
+			- [ ] 325
+		- [ ] Summary
+			- [ ] 342
+				- [ ] Connecting devices
+					- [ ] Basic explanation of Layers on Network Connections
+						- [ ] Item 326
+						- [ ] Item 327
+					- [ ] Link Layer Networking
+						- [ ] Item 327
+						- [ ] Item 328
+					- [ ] IPv4
+						- [ ] What is used for
+							- [ ] Page 328
+						- [ ] Addressing
+							- [ ] Page 328
+							- [ ] Page 329
+						- [ ] Subnets
+							- [ ] Page 329
+						- [ ] Private Addreses
+							- [ ] Page 330
+						- [ ] Address Configuration
+							- [ ] Page 330
+							- [ ] Page 331
+						- [ ] Routing
+							- [ ] Page 332
+					- [ ] IPv6
+						- [ ] IPv6 Networking
+							- [ ] Page 333
+								- [ ] IPv6 Addresses
+						- [ ] IPv6 Prefix
+							- [ ] Page 333 ~ 334
+								- [ ] Global Unique Address
+								- [ ] Unique Local Address
+								- [ ] Link Local Address
+						- [ ] Interface Identifier
+							- [ ] Page 334
+						- [ ] Address Configuration
+							- [ ] Page 334
+							- [ ] Page 335
+							- [ ] Page 336
+					- [ ] DNS (Domain Name System)
+						- [ ] Item 336
+						- [ ] Item 337
+						- [ ] Item 338
+						- [ ] Item 339
+					- [ ] Sockets
+						- [ ] Item 338
+						- [ ] Item 339
+		- [ ] Exercises
+			- [ ] 340 ~ 345
+				- [ ] Item 340
+				- [ ] Item 341
+				- [ ] Item 342
+				- [ ] Item 343
+				- [ ] Item 344
+				- [ ] Item 345
+
+Topic 5: Security and Page Permissions
+- [ ] Page 346
+	- [ ] 5.1 Basic Security and Identifying User Types
+		- [ ] Index
+			- [ ] Page 347
+		- [ ] Summary
+			- [ ] 365 ~ 366
+				- [ ] Access Control
+					- [ ] Page 348
+						- [ ] Accounts basics
+							- [ ] Getting Information About Your Users
+								- [ ] Page 352
+								- [ ] Page 353
+							- [ ] Identifiers (UIDs/GIDs)
+								- [ ] Page 349
+							- [ ] The Superuser Account
+								- [ ] Page 349
+							- [ ] Standard User Accounts
+								- [ ] Page 349
+								- [ ] Page 350
+							- [ ] System Accounts
+								- [ ] Page 350
+							- [ ] Service Accounts
+								- [ ] Page 350
+								- [ ] Page 351
+							- [ ] Login Shells and Home Directories
+								- [ ] Page 351
+								- [ ] Page 352
+						- [ ] Switching users and Escalating Privileges
+							- [ ] Page 354
+							- [ ] Page 355
+						- [ ] Access Control Pages
+							- [ ] Item 355
+							- [ ] Item 356
+							- [ ] Item 357
+							- [ ] Item 358
+							- [ ] Item 359
+							- [ ] Item 360
+							- [ ] Item 361
+		- [ ] Exercises
+			- [ ] 362 ~ 370
+				- [ ] Item 362
+				- [ ] Item 363
+				- [ ] Item 364
+				- [ ] Item 365
+				- [ ] Item 366
+				- [ ] Item 367
+				- [ ] Item 368
+				- [ ] Item 369
+				- [ ] Item 370
+	- [ ] 5.2 Creating Users and Groups
+		- [ ] Index
+			- [ ] 371
+		- [ ] Summary
+			- [ ] 384
+				- [ ] How users and group works
+					- [ ] Page 372 ~ Page 373
+						- [ ] /etc/passwd
+							- [ ] Item 373
+						- [ ] /etc/shadow
+							- [ ] Item 374
+							- [ ] Item 375
+						- [ ] /etc/gshadow
+							- [ ] Item 375
+							- [ ] Item 376
+						- [ ] Managing users (useradd)
+							- [ ] Item 376
+							- [ ] Item 377
+							- [ ] Item 378 ([[id]] command)
+						- [ ] /etc/skel
+							- [ ] Item 378
+						- [ ] group managing (groupadd groupdel)
+							- [ ] Item 379
+						- [ ] passwd
+							- [ ] Item 379
+							- [ ] Item 380
+		- [ ] Exercises
+			- [ ] 381 ~ 389
+				- [ ] Item 381
+				- [ ] Item 382
+				- [ ] Item 383
+				- [ ] Item 384
+				- [ ] Item 385
+				- [ ] Item 386
+				- [ ] Item 387
+				- [ ] Item 388
+				- [ ] Item 389
+	- [ ] 5.3 Managing Page Permissions and Ownership
+		- [ ] Index
+			- [ ] 390
+		- [ ] Summary
+			- [ ] 408
+				- [ ] how to read information and permissions of Pages and directories
+					- [ ] Item 391
+					- [ ] Item 392
+					- [ ] Item 393
+					- [ ] Item 394
+					- [ ] Item 395
+				- [ ] Managing permissions to users and groups
+					- [ ] Item 395
+					- [ ] Item 396
+					- [ ] Item 397
+					- [ ] Item 398
+					- [ ] Item 399
+					- [ ] Item 400
+					- [ ] Item 401
+				- [ ] Special Permissions
+					- [ ] Item 402
+					- [ ] Item 403
+					- [ ] Item 404
+		- [ ] Exercises
+			- [ ] 405 ~ 414
+				- [ ] Item 405
+				- [ ] Item 406
+				- [ ] Item 407
+				- [ ] Item 408
+				- [ ] Item 409
+				- [ ] Item 410
+				- [ ] Item 411
+				- [ ] Item 412
+				- [ ] Item 413
+				- [ ] Item 414
+	- [ ] 5.4 Special Directories and Pages
+		- [ ] Index
+			- [ ] 415
+		- [ ] Summary
+			- [ ] 427
+				- [ ]  Temporary Pages and permissions of them
+					- [ ] Item 416
+					- [ ] Item 417
+					- [ ] Item 418
+				- [ ] Understanding Soft and Hard links
+					- [ ] Item 418
+					- [ ] Item 419
+					- [ ] Item 420
+					- [ ] Item 421
+					- [ ] Item 422
+		- [ ] Exercises
+			- [ ] 423 ~ 432
+				- [ ] Item 423
+				- [ ] Item 424
+				- [ ] Item 425
+				- [ ] Item 426
+				- [ ] Item 427
+				- [ ] Item 428
+				- [ ] Item 429
+				- [ ] Item 430
+				- [ ] Item 431
+				- [ ] Item 432
+
+
+
+
+
+
+
+
+
+
+
+
